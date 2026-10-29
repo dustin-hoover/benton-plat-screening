@@ -14,7 +14,9 @@ from callouts import callouts, ue_widths
 
 chunk, n, out = int(sys.argv[1]), int(sys.argv[2]), sys.argv[3]
 os.makedirs(out, exist_ok=True)
-rows = [r for r in csv.DictReader(open('plats.csv')) if int(r['seq']) % n == chunk]
+allrows = list(csv.DictReader(open('plats.csv')))
+# contiguous blocks so chunk order follows plats.csv priority order (Bentonville, Cave Springs, Centerton, rural, other)
+rows = [r for r in allrows if int(r['seq']) * n // len(allrows) == chunk]
 LIMIT = float(os.environ.get('TIME_LIMIT_MIN', '330')) * 60
 T0 = time.time()
 
@@ -69,7 +71,7 @@ done = set()
 for row in rows:
     if time.time() - T0 > LIMIT:
         print('time limit reached', flush=True); break
-    rec = dict(seq=int(row['seq']), oid=int(row['oid']), image=row['image'], url=row['url'], type=row['type'],
+    rec = dict(seq=int(row['seq']), area=row['area'], oid=int(row['oid']), image=row['image'], url=row['url'], type=row['type'],
                subdivision=row['subdivision'], folder=row['folder'], date=row['date'])
     with tempfile.TemporaryDirectory() as td:
         pdf = f'{td}/p.pdf'
