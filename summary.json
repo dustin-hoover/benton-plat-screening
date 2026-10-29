@@ -1,0 +1,60 @@
+{
+ "total_plats": 47355,
+ "screened": 37,
+ "status": {
+  "OK": 36,
+  "DOWNLOAD_FAILED": 1
+ },
+ "shows_easements": 36,
+ "shows_utility_easement": 22,
+ "by_type_with_ue": [
+  [
+   "FINAL PLAT",
+   6
+  ],
+  [
+   "REPLAT",
+   4
+  ],
+  [
+   "INFORMAL PLAT",
+   2
+  ],
+  [
+   "EASEMENT PLAT",
+   2
+  ],
+  [
+   "EASEMENT VACATION PLAT",
+   1
+  ],
+  [
+   "LOT CONSOLIDATION PLAT",
+   1
+  ],
+  [
+   "MINOR SUBDIVISION PLAT",
+   1
+  ],
+  [
+   "MAJOR REPLAT",
+   1
+  ],
+  [
+   "EASEMENT DEDICATION PLAT",
+   1
+  ],
+  [
+   "CORRECTION PLAT",
+   1
+  ],
+  [
+   "AMENDED PLAT",
+   1
+  ],
+  [
+   "EASEMENT REDUCTION PLAT",
+   1
+  ]
+ ]
+}
