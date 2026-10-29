@@ -1,0 +1,61 @@
+name: Screen all plats
+on:
+  workflow_dispatch:
+    inputs:
+      chunks: {description: 'number of chunks', default: '100'}
+permissions:
+  contents: write
+concurrency: {group: screening, cancel-in-progress: false}
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    outputs:
+      list: ${{ steps.m.outputs.list }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Ensure data release exists
+        env: {GH_TOKEN: '${{ github.token }}'}
+        run: gh release view screening-data >/dev/null 2>&1 || gh release create screening-data --title "Screening data" --notes "Per-chunk OCR screening results and text. Merged results in results.jsonl on main."
+      - id: m
+        run: python3 -c "import json,os; n=int('${{ github.event.inputs.chunks }}'); print('list='+json.dumps(list(range(n))))" >> $GITHUB_OUTPUT
+  screen:
+    needs: setup
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        chunk: ${{ fromJson(needs.setup.outputs.list) }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Skip if already done
+        id: chk
+        env: {GH_TOKEN: '${{ github.token }}'}
+        run: |
+          if gh release view screening-data --json assets --jq '.assets[].name' | grep -qx "results_${{ matrix.chunk }}.jsonl"; then echo "done=1" >> $GITHUB_OUTPUT; else echo "done=0" >> $GITHUB_OUTPUT; fi
+      - name: Install
+        if: steps.chk.outputs.done == '0'
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr >/dev/null && pip install -q pymupdf
+      - name: Screen
+        if: steps.chk.outputs.done == '0'
+        env: {TIME_LIMIT_MIN: '330'}
+        run: python screen.py ${{ matrix.chunk }} ${{ github.event.inputs.chunks }} out
+      - name: Upload
+        if: steps.chk.outputs.done == '0' && always()
+        env: {GH_TOKEN: '${{ github.token }}'}
+        run: |
+          ls out/ && gh release upload screening-data out/results_${{ matrix.chunk }}.jsonl out/text_${{ matrix.chunk }}.jsonl.gz --clobber
+  merge:
+    needs: screen
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Merge
+        env: {GH_TOKEN: '${{ github.token }}'}
+        run: |
+          mkdir -p dl && gh release download screening-data -p 'results_*.jsonl' -D dl --clobber
+          python3 merge.py dl
+          git config user.name "github-actions" && git config user.email "actions@github.com"
+          git add results.jsonl summary.json && git commit -m "Merge screening results" && git push || echo nothing to commit
