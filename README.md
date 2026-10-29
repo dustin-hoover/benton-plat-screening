@@ -12,6 +12,6 @@ This is triage only. The widths and use rights that go into the master dataset a
 
 - `plats.csv`: the manifest. Final and corrected plats come first, then other plats, splits and adjustments, then surveys.
 - `results.jsonl` / `summary.json`: merged results, updated after each run.
-- Release `screening-data`: per-chunk results and OCR text.
+- Release `screening-v2`: per-chunk results and OCR text.
 
 Run it from **Actions → Screen all plats → Run workflow**. Chunks that are already done are skipped, so the workflow can be re-run to finish any that hit the time limit.
