@@ -65,6 +65,13 @@ def ocr_page(args):
             os.remove(png)
     return '', 0
 
+prev = set()
+if os.path.exists(f'{out}/results_{chunk}.jsonl'):
+    for l in open(f'{out}/results_{chunk}.jsonl'):
+        try: prev.add(json.loads(l)['seq'])
+        except Exception: pass
+rows = [r for r in rows if int(r['seq']) not in prev]
+print('resuming chunk', chunk, 'skipping', len(prev), 'done; remaining', len(rows), flush=True)
 res = open(f'{out}/results_{chunk}.jsonl', 'a')
 txt = gzip.open(f'{out}/text_{chunk}.jsonl.gz', 'at')
 done = set()

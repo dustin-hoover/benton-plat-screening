@@ -29,11 +29,17 @@ jobs:
         chunk: ${{ fromJson(needs.setup.outputs.list) }}
     steps:
       - uses: actions/checkout@v4
-      - name: Skip if already done
+      - name: Resume from previous results
         id: chk
         env: {GH_TOKEN: '${{ github.token }}'}
         run: |
-          if gh release view screening-v2 --json assets --jq '.assets[].name' | grep -qx "results_${{ matrix.chunk }}.jsonl"; then echo "done=1" >> $GITHUB_OUTPUT; else echo "done=0" >> $GITHUB_OUTPUT; fi
+          mkdir -p out
+          gh release download screening-v2 -p "results_${{ matrix.chunk }}.jsonl" -D out --clobber 2>/dev/null || true
+          gh release download screening-v2 -p "text_${{ matrix.chunk }}.jsonl.gz" -D out --clobber 2>/dev/null || true
+          N=$(python3 -c "import csv;r=list(csv.DictReader(open('plats.csv')));print(sum(1 for x in r if int(x['seq'])*${{ github.event.inputs.chunks }}//len(r)==${{ matrix.chunk }}))")
+          D=$(test -f out/results_${{ matrix.chunk }}.jsonl && wc -l < out/results_${{ matrix.chunk }}.jsonl || echo 0)
+          echo "chunk has $N, done $D"
+          if [ "$D" -ge "$N" ]; then echo "done=1" >> $GITHUB_OUTPUT; else echo "done=0" >> $GITHUB_OUTPUT; fi
       - name: Install
         if: steps.chk.outputs.done == '0'
         run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr >/dev/null && pip install -q pymupdf
