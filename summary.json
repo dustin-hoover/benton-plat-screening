@@ -1,73 +1,73 @@
 {
  "total_plats": 47355,
- "screened": 44754,
+ "screened": 45616,
  "status": {
-  "OK": 43223,
-  "NO_TEXT": 490,
-  "DOWNLOAD_FAILED": 1041
+  "OK": 44043,
+  "NO_TEXT": 527,
+  "DOWNLOAD_FAILED": 1046
  },
- "shows_easements": 33804,
- "shows_utility_easement": 5790,
+ "shows_easements": 34590,
+ "shows_utility_easement": 6134,
  "by_type_with_ue": [
   [
    "TRACT SPLIT",
-   700
+   762
+  ],
+  [
+   "LOT SPLIT",
+   426
   ],
   [
    "PLAT OF SURVEY",
    404
   ],
   [
-   "LOT SPLIT",
-   367
-  ],
-  [
    "PROPERTY LINE ADJUSTMENT",
-   333
+   377
   ],
   [
    "BOUNDARY SURVEY",
    253
   ],
   [
+   "FINAL PLAT",
+   206
+  ],
+  [
    "SURVEY",
    174
   ],
   [
-   "FINAL PLAT",
-   168
+   "LOT LINE ADJUSTMENT",
+   121
   ],
   [
    "LOT SURVEY",
    114
   ],
   [
-   "LOT LINE ADJUSTMENT",
-   110
-  ],
-  [
    "REPLAT",
-   81
+   102
   ],
   [
    "LOT COMBINATION",
-   60
+   69
   ],
   [
    "",
    48
   ],
   [
+   "EASEMENT PLAT",
+   45
+  ],
+  [
    "TRACT SPLIT SURVEY",
    38
   ],
   [
-   "EASEMENT PLAT",
-   30
-  ],
-  [
-   "MINOR SUBDIVISION",
-   30
+   "INFORMAL PLAT",
+   34
   ]
  ]
 }
