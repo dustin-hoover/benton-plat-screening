@@ -1,5 +1,7 @@
 name: Screen all plats
 on:
+  schedule:
+    - cron: '23 4 * * *'   # nightly, 10:23 pm Central (CST); already-done chunks are skipped
   workflow_dispatch:
     inputs:
       chunks: {description: 'number of chunks', default: '100'}
@@ -12,12 +14,12 @@ jobs:
     outputs:
       list: ${{ steps.m.outputs.list }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Ensure data release exists
         env: {GH_TOKEN: '${{ github.token }}'}
         run: gh release view screening-v2 >/dev/null 2>&1 || gh release create screening-v2 --title "Screening data" --notes "Per-chunk OCR screening results and text. Merged results in results.jsonl on main."
       - id: m
-        run: python3 -c "import json,os; n=int('${{ github.event.inputs.chunks }}'); print('list='+json.dumps(list(range(n))))" >> $GITHUB_OUTPUT
+        run: python3 -c "import json,os; n=int('${{ github.event.inputs.chunks || '100' }}'); print('list='+json.dumps(list(range(n))))" >> $GITHUB_OUTPUT
   screen:
     needs: setup
     runs-on: ubuntu-latest
@@ -28,7 +30,7 @@ jobs:
       matrix:
         chunk: ${{ fromJson(needs.setup.outputs.list) }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Resume from previous results
         id: chk
         env: {GH_TOKEN: '${{ github.token }}'}
@@ -36,7 +38,7 @@ jobs:
           mkdir -p out
           gh release download screening-v2 -p "results_${{ matrix.chunk }}.jsonl" -D out --clobber 2>/dev/null || true
           gh release download screening-v2 -p "text_${{ matrix.chunk }}.jsonl.gz" -D out --clobber 2>/dev/null || true
-          N=$(python3 -c "import csv;r=list(csv.DictReader(open('plats.csv')));print(sum(1 for x in r if int(x['seq'])*${{ github.event.inputs.chunks }}//len(r)==${{ matrix.chunk }}))")
+          N=$(python3 -c "import csv;r=list(csv.DictReader(open('plats.csv')));print(sum(1 for x in r if int(x['seq'])*${{ github.event.inputs.chunks || '100' }}//len(r)==${{ matrix.chunk }}))")
           D=$(test -f out/results_${{ matrix.chunk }}.jsonl && wc -l < out/results_${{ matrix.chunk }}.jsonl || echo 0)
           echo "chunk has $N, done $D"
           if [ "$D" -ge "$N" ]; then echo "done=1" >> $GITHUB_OUTPUT; else echo "done=0" >> $GITHUB_OUTPUT; fi
@@ -46,7 +48,7 @@ jobs:
       - name: Screen
         if: steps.chk.outputs.done == '0'
         env: {TIME_LIMIT_MIN: '330'}
-        run: python screen.py ${{ matrix.chunk }} ${{ github.event.inputs.chunks }} out
+        run: python screen.py ${{ matrix.chunk }} ${{ github.event.inputs.chunks || '100' }} out
       - name: Upload
         if: steps.chk.outputs.done == '0' && always()
         env: {GH_TOKEN: '${{ github.token }}'}
@@ -57,7 +59,7 @@ jobs:
     if: always()
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Merge
         env: {GH_TOKEN: '${{ github.token }}'}
         run: |
