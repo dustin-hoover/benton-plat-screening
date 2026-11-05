@@ -47,7 +47,7 @@ jobs:
         run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr >/dev/null && pip install -q pymupdf
       - name: Screen
         if: steps.chk.outputs.done == '0'
-        env: {TIME_LIMIT_MIN: '330'}
+        env: {TIME_LIMIT_MIN: '300'}
         run: python screen.py ${{ matrix.chunk }} ${{ github.event.inputs.chunks || '100' }} out
       - name: Upload
         if: steps.chk.outputs.done == '0' && always()
