@@ -7,8 +7,8 @@ OCRs every page at screening resolution and writes:
   <outdir>/results_<chunk>.jsonl   one record per plat: status, pages, easement flags, callouts, key phrases
   <outdir>/text_<chunk>.jsonl.gz   raw OCR text per page (for later targeted reading)
 """
-import csv, gzip, json, os, re, subprocess, sys, tempfile, time
-from concurrent.futures import ThreadPoolExecutor
+import csv, gzip, json, multiprocessing, os, re, subprocess, sys, tempfile, time
+from concurrent.futures import FIRST_COMPLETED, ProcessPoolExecutor, ThreadPoolExecutor, as_completed, wait
 import pymupdf
 from callouts import callouts, ue_widths
 
@@ -19,6 +19,11 @@ allrows = list(csv.DictReader(open('plats.csv')))
 rows = [r for r in allrows if int(r['seq']) * n // len(allrows) == chunk]
 LIMIT = float(os.environ.get('TIME_LIMIT_MIN', '330')) * 60
 T0 = time.time()
+PLAT_WORKERS = 4  # plats in flight at once (runner has 4 vCPUs; also overlaps downloads)
+PAGE_WORKERS = 2  # pages OCR'd at once within a plat
+# Ubuntu's tesseract is built with OpenMP; several instances at once with default threading thrash the CPU
+# and hit the 300 s timeout (multi-page plats were losing most pages). One thread per tesseract process.
+os.environ['OMP_THREAD_LIMIT'] = '1'
 
 KEY = {
     'easement': r'EASEMENT|ESM[\'’]?T|\bU\.?\s?/?\s?E\b|\bD\.?\s?E\b|\bA\.?\s?E\b',
@@ -72,23 +77,19 @@ if os.path.exists(f'{out}/results_{chunk}.jsonl'):
         except Exception: pass
 rows = [r for r in rows if int(r['seq']) not in prev]
 print('resuming chunk', chunk, 'skipping', len(prev), 'done; remaining', len(rows), flush=True)
-res = open(f'{out}/results_{chunk}.jsonl', 'a')
-txt = gzip.open(f'{out}/text_{chunk}.jsonl.gz', 'at')
-done = set()
-for row in rows:
-    if time.time() - T0 > LIMIT:
-        print('time limit reached', flush=True); break
+def screen_plat(row):
+    """Download and OCR one plat. Returns (results record, text record or None)."""
     rec = dict(seq=int(row['seq']), area=row['area'], oid=int(row['oid']), image=row['image'], url=row['url'], type=row['type'],
                subdivision=row['subdivision'], folder=row['folder'], date=row['date'])
     with tempfile.TemporaryDirectory() as td:
         pdf = f'{td}/p.pdf'
         if not fetch(row['url'], pdf):
-            rec.update(status='DOWNLOAD_FAILED'); res.write(json.dumps(rec) + '\n'); res.flush(); continue
+            rec.update(status='DOWNLOAD_FAILED'); return rec, None
         try:
             np = len(pymupdf.open(pdf))
         except Exception:
-            rec.update(status='PDF_UNREADABLE'); res.write(json.dumps(rec) + '\n'); res.flush(); continue
-        with ThreadPoolExecutor(4) as ex:
+            rec.update(status='PDF_UNREADABLE'); return rec, None
+        with ThreadPoolExecutor(PAGE_WORKERS) as ex:
             pages = list(ex.map(ocr_page, [(pdf, i) for i in range(min(np, 20))]))
     text = '\n'.join(t for t, _ in pages)
     up = text.upper()
@@ -101,8 +102,30 @@ for row in rows:
                phrases=[m.group(0).strip()[:280] for m in PHRASE.finditer(text)][:25],
                shows_easements=bool(flags['easement'] or flags['utility_easement']),
                shows_utility_easement=bool(flags['utility_easement']))
-    res.write(json.dumps(rec) + '\n'); res.flush()
-    txt.write(json.dumps(dict(seq=rec['seq'], image=row['image'], pages=[t for t, _ in pages])) + '\n')
     time.sleep(1.0)  # be polite to the county server
+    return rec, dict(seq=rec['seq'], image=row['image'], pages=[t for t, _ in pages])
+
+res = open(f'{out}/results_{chunk}.jsonl', 'a')
+txt = gzip.open(f'{out}/text_{chunk}.jsonl.gz', 'at')
+
+def write(fut):
+    rec, t = fut.result()
+    res.write(json.dumps(rec) + '\n'); res.flush()
+    if t is not None: txt.write(json.dumps(t) + '\n')
+
+# Up to PLAT_WORKERS plats in flight; the time limit is checked before each plat is started, as before,
+# and plats already started are finished and written. Records are written as they complete (merge sorts by seq).
+with ProcessPoolExecutor(PLAT_WORKERS, mp_context=multiprocessing.get_context('fork')) as pool:
+    pending = set()
+    for row in rows:
+        if time.time() - T0 > LIMIT:
+            print('time limit reached', flush=True); break
+        if len(pending) >= PLAT_WORKERS:
+            finished, pending = wait(pending, return_when=FIRST_COMPLETED)
+            for f in finished: write(f)
+            if time.time() - T0 > LIMIT:
+                print('time limit reached', flush=True); break
+        pending.add(pool.submit(screen_plat, row))
+    for f in as_completed(pending): write(f)
 res.close(); txt.close()
 print('chunk', chunk, 'processed', sum(1 for _ in open(f'{out}/results_{chunk}.jsonl')), 'of', len(rows), round((time.time() - T0) / 60), 'min')
