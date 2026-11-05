@@ -67,4 +67,5 @@ jobs:
           mkdir -p dl && gh release download screening-v2 -p 'results_*.jsonl' -D dl --clobber
           python3 merge.py dl
           git config user.name "github-actions" && git config user.email "actions@github.com"
-          git add results.jsonl summary.json && git commit -m "Merge screening results" && git push || echo nothing to commit
+          git add results.jsonl summary.json && git commit -m "Merge screening results" || { echo nothing to commit; exit 0; }
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done; exit 1
