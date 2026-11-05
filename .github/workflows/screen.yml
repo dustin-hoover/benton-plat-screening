@@ -38,6 +38,7 @@ jobs:
           mkdir -p out
           gh release download screening-v2 -p "results_${{ matrix.chunk }}.jsonl" -D out --clobber 2>/dev/null || true
           gh release download screening-v2 -p "text_${{ matrix.chunk }}.jsonl.gz" -D out --clobber 2>/dev/null || true
+          python3 redo.py ${{ matrix.chunk }} out
           N=$(python3 -c "import csv;r=list(csv.DictReader(open('plats.csv')));print(sum(1 for x in r if int(x['seq'])*${{ github.event.inputs.chunks || '100' }}//len(r)==${{ matrix.chunk }}))")
           D=$(test -f out/results_${{ matrix.chunk }}.jsonl && wc -l < out/results_${{ matrix.chunk }}.jsonl || echo 0)
           echo "chunk has $N, done $D"

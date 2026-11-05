@@ -80,7 +80,7 @@ print('resuming chunk', chunk, 'skipping', len(prev), 'done; remaining', len(row
 def screen_plat(row):
     """Download and OCR one plat. Returns (results record, text record or None)."""
     rec = dict(seq=int(row['seq']), area=row['area'], oid=int(row['oid']), image=row['image'], url=row['url'], type=row['type'],
-               subdivision=row['subdivision'], folder=row['folder'], date=row['date'])
+               subdivision=row['subdivision'], folder=row['folder'], date=row['date'], v=2)
     with tempfile.TemporaryDirectory() as td:
         pdf = f'{td}/p.pdf'
         if not fetch(row['url'], pdf):
