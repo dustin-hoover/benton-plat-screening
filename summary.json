@@ -3,8 +3,8 @@
  "screened": 47355,
  "status": {
   "OK": 45982,
-  "NO_TEXT": 298,
-  "DOWNLOAD_FAILED": 1075
+  "DOWNLOAD_FAILED": 1075,
+  "NO_TEXT": 298
  },
  "shows_easements": 36603,
  "shows_utility_easement": 7428,
