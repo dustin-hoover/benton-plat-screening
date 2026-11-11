@@ -1,12 +1,12 @@
 {
  "plats": {
   "total": 47355,
-  "screened": 47353,
-  "unscreened": 2,
-  "complete": 47125,
+  "screened": 47355,
+  "unscreened": 0,
+  "complete": 47126,
   "incomplete": {
    "download_failed": 194,
-   "pages_degraded_after_retry:1": 34
+   "pages_degraded_after_retry:1": 35
   },
   "all_complete": false,
   "still_failing": [
@@ -1374,6 +1374,13 @@
     "image": "ESSEX_SUB_A",
     "page_status": [
      "degraded"
+    ]
+   },
+   {
+    "seq": 38766,
+    "image": "AVONDALE_SUB_K",
+    "page_status": [
+     "failed"
     ]
    },
    {

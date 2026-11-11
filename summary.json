@@ -1,13 +1,13 @@
 {
  "plats": {
   "total": 47355,
-  "screened": 47353,
+  "screened": 47355,
   "status": {
-   "OK": 47039,
+   "OK": 47040,
    "DOWNLOAD_FAILED": 194,
-   "NO_TEXT": 120
+   "NO_TEXT": 121
   },
-  "shows_easements": 40627,
+  "shows_easements": 40628,
   "shows_utility_easement": 7543,
   "by_type_with_ue": [
    [
@@ -146,13 +146,13 @@
   ]
  },
  "total_plats": 47355,
- "screened": 47353,
+ "screened": 47355,
  "status": {
-  "OK": 47039,
+  "OK": 47040,
   "DOWNLOAD_FAILED": 194,
-  "NO_TEXT": 120
+  "NO_TEXT": 121
  },
- "shows_easements": 40627,
+ "shows_easements": 40628,
  "shows_utility_easement": 7543,
  "by_type_with_ue": [
   [
