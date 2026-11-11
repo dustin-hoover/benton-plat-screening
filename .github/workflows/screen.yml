@@ -1,10 +1,10 @@
 name: Screen all plats
 on:
   schedule:
-    - cron: '23 4 * * *'   # nightly, 10:23 pm Central (CST); already-done chunks are skipped
+    - cron: '23 4 * * *'   # nightly, 10:23 pm Central (CST); complete chunks are skipped
   workflow_dispatch:
     inputs:
-      chunks: {description: 'number of chunks', default: '100'}
+      chunks: {description: 'number of chunks for plats.csv (extra.csv chunks are fixed in the manifest)', default: '100'}
 permissions:
   contents: write
 concurrency: {group: screening, cancel-in-progress: false}
@@ -19,16 +19,31 @@ jobs:
         env: {GH_TOKEN: '${{ github.token }}'}
         run: gh release view screening-v2 >/dev/null 2>&1 || gh release create screening-v2 --title "Screening data" --notes "Per-chunk OCR screening results and text. Merged results in results.jsonl on main."
       - id: m
-        run: python3 -c "import json,os; n=int('${{ github.event.inputs.chunks || '100' }}'); print('list='+json.dumps(list(range(n))))" >> $GITHUB_OUTPUT
+        # one matrix entry per chunk of each manifest: plats.csv (county index) and extra.csv (unindexed server files)
+        run: |
+          python3 - >> $GITHUB_OUTPUT <<'PY'
+          import csv, json
+          n = int('${{ github.event.inputs.chunks || '100' }}')
+          jobs = [dict(m='plats', c=c, n=n, pre='') for c in range(n)]
+          ex = sorted({int(r['chunk']) for r in csv.DictReader(open('extra.csv'))})
+          jobs += [dict(m='extra', c=c, n=len(ex), pre='extra_') for c in ex]
+          print('list=' + json.dumps(jobs))
+          PY
   screen:
     needs: setup
     runs-on: ubuntu-latest
     timeout-minutes: 355
+    name: screen ${{ matrix.job.m }} ${{ matrix.job.c }}
     strategy:
       fail-fast: false
       max-parallel: 20
       matrix:
-        chunk: ${{ fromJson(needs.setup.outputs.list) }}
+        job: ${{ fromJson(needs.setup.outputs.list) }}
+    env:
+      MANIFEST: ${{ matrix.job.m }}
+      C: ${{ matrix.job.c }}
+      N: ${{ matrix.job.n }}
+      PRE: ${{ matrix.job.pre }}
     steps:
       - uses: actions/checkout@v5
       - name: Resume from previous results
@@ -36,25 +51,36 @@ jobs:
         env: {GH_TOKEN: '${{ github.token }}'}
         run: |
           mkdir -p out
-          gh release download screening-v2 -p "results_${{ matrix.chunk }}.jsonl" -D out --clobber 2>/dev/null || true
-          gh release download screening-v2 -p "text_${{ matrix.chunk }}.jsonl.gz" -D out --clobber 2>/dev/null || true
-          python3 redo.py ${{ matrix.chunk }} out
-          N=$(python3 -c "import csv;r=list(csv.DictReader(open('plats.csv')));print(sum(1 for x in r if int(x['seq'])*${{ github.event.inputs.chunks || '100' }}//len(r)==${{ matrix.chunk }}))")
-          D=$(test -f out/results_${{ matrix.chunk }}.jsonl && wc -l < out/results_${{ matrix.chunk }}.jsonl || echo 0)
-          echo "chunk has $N, done $D"
-          if [ "$D" -ge "$N" ]; then echo "done=1" >> $GITHUB_OUTPUT; else echo "done=0" >> $GITHUB_OUTPUT; fi
+          gh release download screening-v2 -p "${PRE}results_${C}.jsonl" -D out --clobber 2>/dev/null || true
+          gh release download screening-v2 -p "${PRE}text_${C}.jsonl.gz" -D out --clobber 2>/dev/null || true
+          python3 redo.py $MANIFEST $C out
+          python3 - <<'PY' >> $GITHUB_OUTPUT
+          import json, os
+          from manifest import rows_for, files_for
+          m, c, n = os.environ['MANIFEST'], int(os.environ['C']), int(os.environ['N'])
+          want = {int(r['seq']) for r in rows_for(m, c, n)}
+          rp, _ = files_for(m, c, 'out')
+          done = set()
+          if os.path.exists(rp):
+              for l in open(rp):
+                  try: done.add(json.loads(l)['seq'])
+                  except Exception: pass
+          left = len(want - done)
+          import sys; print(f'chunk has {len(want)}, remaining {left}', file=sys.stderr)
+          print('done=' + ('1' if left == 0 else '0'))
+          PY
       - name: Install
         if: steps.chk.outputs.done == '0'
         run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr >/dev/null && pip install -q pymupdf
       - name: Screen
         if: steps.chk.outputs.done == '0'
         env: {TIME_LIMIT_MIN: '300'}
-        run: python screen.py ${{ matrix.chunk }} ${{ github.event.inputs.chunks || '100' }} out
+        run: python screen.py $C $N out
       - name: Upload
         if: steps.chk.outputs.done == '0' && always()
         env: {GH_TOKEN: '${{ github.token }}'}
         run: |
-          ls out/ && gh release upload screening-v2 out/results_${{ matrix.chunk }}.jsonl out/text_${{ matrix.chunk }}.jsonl.gz --clobber
+          ls out/ && gh release upload screening-v2 out/${PRE}results_${C}.jsonl out/${PRE}text_${C}.jsonl.gz --clobber
   merge:
     needs: screen
     if: always()
@@ -64,8 +90,11 @@ jobs:
       - name: Merge
         env: {GH_TOKEN: '${{ github.token }}'}
         run: |
-          mkdir -p dl && gh release download screening-v2 -p 'results_*.jsonl' -D dl --clobber
+          mkdir -p dl
+          gh release download screening-v2 -p 'results_*.jsonl' -D dl --clobber
+          gh release download screening-v2 -p 'extra_results_*.jsonl' -D dl --clobber 2>/dev/null || true
           python3 merge.py dl
           git config user.name "github-actions" && git config user.email "actions@github.com"
-          git add results.jsonl summary.json && git commit -m "Merge screening results" || { echo nothing to commit; exit 0; }
+          git add results.jsonl extra_results.jsonl summary.json completeness.json low_text.json extra_low_text.json
+          git commit -m "Merge screening results" || { echo nothing to commit; exit 0; }
           for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done; exit 1

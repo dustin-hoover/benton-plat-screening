@@ -1,0 +1,4412 @@
+{
+"171": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CORNER_RIDGE_SUB_PH3_25JUL13_2013-439.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CORNERSTONE_RIDGE_SUB_PH3_25JUL13_2013-439.pdf"
+},
+"172": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CORNER_RIDGE_SUB_PH3_25JUL13_2013-437.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CORNERSTONE_RIDGE_SUB_PH3_25JUL13_2013-437.pdf"
+},
+"217": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/LEFORS_ADDITION_2009-184.TIF",
+"basis": "PUNCT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/LEFOR'S_ADDITION_2009-184.TIF.pdf"
+},
+"599": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/HIDDEN_SPRINGS_PH4_P3-43%5D.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/HIDDEN_SPRINGS_PH4_P3-43].pdf"
+},
+"1077": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/A_AND_T_ADD_13-381.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/A_&_T_ADD_13-381.pdf"
+},
+"1250": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_%233_BLK_5-8_2-210.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_#3_BLK_5-8_2-210.pdf"
+},
+"1464": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/35-20-31_23MAY07_2007-475.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/35-20-31_SE_23MAY07_2007-475.pdf"
+},
+"1607": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/FAIRFIELD_ADD_L202630001.pdf",
+"basis": "EXACT",
+"was": "BENTONVILLE/FAIRFIELD_ADD_L202630001.PDF"
+},
+"1614": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/ORCHARD_ADD_L202617357.pdf",
+"basis": "EXACT",
+"was": "file:///J:/Scans/Plats/BENTONVILLE/ORCHARD_ADD_L202617357.PDF"
+},
+"1642": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/DEMINGS_2ND_ADD_L202561917.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILE/DEMINGS_2ND_ADD_L202561917.PDF"
+},
+"1974": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/LINCOLN_AND_RICE_ADD_L202122488.tif",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/LINCOLN_AND_RICE_ADD_L202122488.pdf"
+},
+"2377": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/DEMINGS_2ND_ADD_21SEP15_2015548.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/DEMINGS_2ND_ADD_21SEP15_2015548.pdf.pdf"
+},
+"2384": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/BRAITHWAITE_PARK_03SEP15_2015500.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/BRAITHWAITE_PARK_03SEP15_2015500.pdf.pdf"
+},
+"2398": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/OAKBROOKE_SUB_PHII_10JUN15_2015327.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/OAKBROOKE_SUB_PH_2_10JUN15_2015327.pdf"
+},
+"2399": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/OAKBROOKE_SUB_PHII_10JUN15_2015328.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/OAKBROOKE_SUB_PH_2_10JUN15_2015328.pdf"
+},
+"2429": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/TAYLOR_ACRES_02JAN15_2015-002.pdf",
+"basis": "PUNCT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/TAYLOR_ACRES_02JAN15_2015-002\n_.pdf"
+},
+"2601": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/MIKE_MATISE_SUB_2009-459.PDF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/MIKE_MATISE_SUB_2009-459.pdf"
+},
+"2619": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/SHOPS_AT_THE_FOURM_2008-418.TIF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/SHOPS_AT_THE_FOURM_2008-418.pdf"
+},
+"2620": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CHAPEL_HILL_PH1_2008-416.TIF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CHAPEL_HILL_PH1_2008-416.pdf"
+},
+"2621": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/WINDSOR_MANOR_SUB_2008-415.TIF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/WINDSOR_MANOR_SUB_2008-415.pdf"
+},
+"2630": {
+"url": "https://gis.bentoncountyar.gov/plats/BELLA_VISTA/CARRIAGE_SQUARE_SUBDIVISION_2008-122.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CARRIAGE_SQUARE_SUBDIVISION_2008-122.pdf"
+},
+"2911": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/WINDEMERE_WOOD_PH_1_L202630640.pdf",
+"basis": "EXACT",
+"was": "BENTONVILLE/WINDEMERE_WOOD_PH_1_L202630640.PDF"
+},
+"2913": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/31-20-30_L202619673.pdf",
+"basis": "EXACT",
+"was": "file:///J:/Scans/Plats/BENTONVILLE/31-20-30_L202619673.PDF"
+},
+"2919": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/LEFORS_ADD_L202547972.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVLLE/LEFORS_ADD_L202547972.PDF"
+},
+"3249": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/TUBNRIDGE_WELLS_SUB_9AUG12_2012-289.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/TUNBRIDGE_WELLS_SUB_9AUG12_2012-289.pdf"
+},
+"3282": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/PINNACLE_SUB_PHASE4_2011-538.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/PINNACLE_SUB_PHASE4_2011-538.pdf"
+},
+"3322": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/LOFTY_ACRES_2011-153.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/LOFFTY_ACRES_2011-153.pdf"
+},
+"3323": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-18-31_5APR11_2011-155.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/17-18-31_5APR11_2011-155.pdf"
+},
+"3384": {
+"url": "https://gis.bentoncountyar.gov/plats/All_New_Plats/tiff_backup/EDEN%27S_BROOKE_SUB_2007-809.TIF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/EDEN'S_BROOKE_SUB_2007-809.pdf"
+},
+"3863": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_%233_BLK_5-8_21-265.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_#3_BLK_5-8_21-265.pdf"
+},
+"3905": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_%233_BLK_5-8_18-182.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_#3_BLK_5-8_18-182.pdf"
+},
+"3908": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_%233_BLK_5-8_15-20.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_#3_BLK_5-8_15-20.pdf"
+},
+"3951": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/H_AND_H_WALKER_SUB_14-178.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/H&H_WALKER_SUB_14-178.pdf"
+},
+"3961": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_%233_BLK_5-8_15-95.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_#3_BLK_5-8_15-95.pdf"
+},
+"4168": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_%233_BLK_5-8_17-130.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_#3_BLK_5-8_17-130.pdf"
+},
+"4281": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_%233_BLK_5-8_Q-502.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_#3_BLK_5-8_Q-502.pdf"
+},
+"4374": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_%233_BLK_5-8_R-288.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_#3_BLK_5-8_R-288.pdf"
+},
+"4382": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_%233_BLK_5-8_R-191.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_#3_BLK_5-8_R-191.pdf"
+},
+"4384": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_%233_BLK_5-8_R-159.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_#3_BLK_5-8_R-159.pdf"
+},
+"4392": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_%233_BLK_5-8_1-867-A.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_#3_BLK_5-8_1-867-A.pdf"
+},
+"4405": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_%233_BLK_5-8_P-377.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/CLARKS_ADDN2_#3_BLK_5-8_P-377.pdf"
+},
+"4499": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/1888_G-303.pdf",
+"basis": "PUNCT",
+"was": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/1888_G_303.pdf"
+},
+"4632": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/SHADOW_VALLEY_PH7_L201809704.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/CAVE_SPRINGS/SHADOW_VALLEY_SUB_PH7_L201809704.pdf"
+},
+"4727": {
+"url": "https://gis.bentoncountyar.gov/plats/CAVE_SPRINGS/26-19-31_L202640314.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/platsCAVE_SPRINGS/26-19-31_L202640314.PDF"
+},
+"5050": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-18-32/WREN_HOLLOW_02JUN14_2014-263.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/CENTERTON/WREN_HOLLOW_02JUN14_2014-263.pdf"
+},
+"5096": {
+"url": "https://gis.bentoncountyar.gov/plats/CENTERTON/CENTERPOINT_SUB_PH8_2003-1014.pdf",
+"basis": "PUNCT",
+"was": "https://gis.bentoncountyar.gov/plats/CENTERTON/CENTERPOINT_SUB_PH8_2003-10-14.pdf"
+},
+"5176": {
+"url": "https://gis.bentoncountyar.gov/plats/CENTERTON/WEST_WIND_SUB_PH_1_L202622909.pdf",
+"basis": "EXACT",
+"was": "CENTERTON/WEST_WIND_SUB_PH_1_L202622909.PDF"
+},
+"5372": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/QUAILRIDGE_SUB_PH1_2007-425.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/CENTERTON/QUAILRIDGE_SUB_PH1_2007-425.pdf"
+},
+"5480": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/WATERFORD_PARK_ADD_L202555824.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/WATERFORD_PARK_ADD_L202555824"
+},
+"5741": {
+"url": "https://gis.bentoncountyar.gov/plats/SILOAM_SPRINGS/04-17-33_31JAN14_2014-46.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/04-17-33_31JAN14_2014-46.pdf"
+},
+"5768": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/ORNDORFF_ACRES_1JUL11_2011-275.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/ORNDORFF_ACRES_1JUL11_2011-275.pdf"
+},
+"5777": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-31/11-19-31_SE_4DEC09_2009-588.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-31_SE_4DEC09_2009-588.pdf"
+},
+"5783": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/VENTRIS_ACRES_2009-196.TIF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/VENTRIS_ACRES_2009-196.pdf"
+},
+"5784": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/STRAWBERRY_RIDGE_ESTATES_2009-155.TIF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/STRAWBERRY_RIDGE_ESTATES_2009-155.TIF.pdf"
+},
+"5789": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/WILD_CHERRY_SUB_2008-433.TIF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/WILD_CHERRY_SUB_2008-433.pdf"
+},
+"6111": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/SUNSET_VIEW_P4-796.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/SUNSET_VIEW_ADD_P4-796.pdf"
+},
+"6142": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/COFFEYS_MEADOWS_P4-254.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/COFFEYS_MEADOWS_P4-254.pdf"
+},
+"6180": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/MOUNTAIN_LAKE_EST_PH1_P3-473.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/MOUNTIAN_LAKE_EST_PH1_P3-473.pdf"
+},
+"6232": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/30-21-29_03JAN00_P2-674.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/30-21-29_03JAN00_P2-674.pdf.pdf"
+},
+"6286": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/MOUNTAIN_LAKE_EST_PH1_35-17.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/MOUNTIAN_LAKE_EST_PH1_35-17.pdf"
+},
+"6289": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-30/5-19-30_3APR98_23L-223.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-19-30_3APR98_23L-223.pdf"
+},
+"6413": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/MOUNTAIN_LAKE_EST_PH1_27-220.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/MOUNTIAN_LAKE_EST_PH1_27-220.pdf"
+},
+"6476": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/TIMBERLAKE_EST_18-126.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/TIMBERLAKE_EST_18-126.pdf"
+},
+"6929": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/SUNSET_VIEW_R-61.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/SUNSET_VIEW_ADD_R-61.pdf"
+},
+"7312": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/LOST_BRIDGE_VILLAGE_MHP_BLK1_D-109.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/LOST_BRIDGE_VILLAGE_MHP_BLK2_D-109.pdf"
+},
+"7423": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-18-32_L202657550.pdf",
+"basis": "EXACT",
+"was": "RURAL/15-18-32_L202657550.PDF"
+},
+"7433": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32_L202622987.pdf",
+"basis": "EXACT",
+"was": "RURAL/12-19-32_L202622987.PDF"
+},
+"7652": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-21-28/20-21-28_10SEP15_2015516.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-21-28_10SEP15_2015516.pdf"
+},
+"7690": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-30/23-20-30_29AUG14_2014427.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-30_29AUG14_2014427.pdf"
+},
+"7691": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-18-33/02-17-33_28AUG14_2014425.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-17-33_28AUG14_2014425.pdf"
+},
+"7717": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/20-19-31_NW_14APR11_2011-167.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-19-31_NW_14APR11_2011-167.pdf"
+},
+"7724": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/JARVIS%20ACRES_2009-162.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/JARVIS ACRES_2009-162.TIF.pdf"
+},
+"7785": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/30%2631-21-29_04JUN96_30-258.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/30&31-21-29_04JUN96_30-258.pdf.pdf"
+},
+"7884": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-29/22-19-29_26JUL13_2013-446.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-29_26JUL13_2013-446.pdf"
+},
+"7927": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/35-18-33_L202650858.pdf",
+"basis": "EXACT",
+"was": "RURAL/35-18-33_L202650858.PDF"
+},
+"7950": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/DEERWOOD_SECTION_1_L202645430.pdf",
+"basis": "EXACT",
+"was": "RURBAN/DEERWOOD_SECTION_1_L202645430.PDF"
+},
+"7953": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/18-21-29_L202644914.pdf",
+"basis": "EXACT",
+"was": "RURAL/18-21-29_L202644914.PDF"
+},
+"7983": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/09-20-29_L202633036.pdf",
+"basis": "EXACT",
+"was": "RURAL/09-20-29_L202633036.PDF"
+},
+"8020": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/09-19-32_L202622983.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32_L202622983.PDF"
+},
+"8057": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-32_L202614471.pdf",
+"basis": "EXACT",
+"was": "\\\\gisdata\\public\\Scans\\Plats\\RURAL/23-20-32_L202614471.PDF"
+},
+"8083": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-21-30_L202605164.pdf",
+"basis": "EXACT",
+"was": "\\\\gisdata\\public\\Scans\\Plats\\RURAL/14-21-30_L202605164.PDF"
+},
+"8088": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/35-20-33_L202602899.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/_35-20-33_L202602899.PDF"
+},
+"8132": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-20-29_L202562016.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/\n\nRURAL/15-20-29_L202562016.PDF"
+},
+"8133": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-29_202561550.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-29_202561550"
+},
+"8137": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/29-20-32_L202561340.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/32_L202561340.PDF"
+},
+"8203": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/HOLIDAY_HILLS_L202542480.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/HOLIDAY_HILLS_L202542480.pdf"
+},
+"8297": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-21-28/28-21-30_L202514132.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/28-21-30_L202514132.pdf"
+},
+"8356": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/04-19-29_L202461438.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/04-19-29_L202461438.pdf"
+},
+"8620": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/10-18-32_L202357674.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/10-18-32_L202357674 .pdf"
+},
+"8639": {
+"url": "https://gis.bentoncountyar.gov/plats/SILOAM_SPRINGS/PINE_RIDGE_SUB_L202343099.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/PINE_RIDGE_SUB_L202343099.pdf"
+},
+"8986": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/BEAVER_SHORES_UNIT_1_L202227570.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/BEAVER_SHORES_UNIT_1_L202227570.pdf"
+},
+"10031": {
+"url": "https://gis.bentoncountyar.gov/plats/LOWELL/02-19-33_25JAN17_2017-72.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-19-33_25JAN17_2017-72.pdf"
+},
+"10126": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/PHILLIPS_CREEK_SUB_22JUL16_2016557.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/PHILLIPS_CREEK_SUB_22JUL16_2016557.pdf.pdf"
+},
+"10396": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/32-20-32_24JAN2014_2014-39.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/32-20-32_24JAN14_2014-39.pdf"
+},
+"10411": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/27-20-31/27-20-31_11OCT13_2013-580.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/27-20-31_11OCT13_2013-580.pdf"
+},
+"10433": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-33/36-20-33_5JUL13_2013-376.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-33_5JUL13_2013-376.pdf"
+},
+"10484": {
+"url": "https://gis.bentoncountyar.gov/plats/CREEKSIDE_ESTATES_PH3_16JAN13_2013-29.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/CREEKSIDE_ESTATES_PH3_16JAN13_2013-29.pdf"
+},
+"10573": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/34-21-28/34-21-28_SE_9SEP10_2010-381.PDF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/34-21-28_SE_9SEP10_2010-381.pdf"
+},
+"10574": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-32/33-21-32_NW_9SEP2010_378.PDF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-32_NW_9SEP2010_378.pdf"
+},
+"10575": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-18-28/3-18-28_SE_12AUG10_2010-331.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/3-18-28_SE_12AUG10_2010-331.pdf"
+},
+"10577": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-34/02-20-34_SE_2010-324.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-34_SE_2010-324.pdf"
+},
+"10583": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/18-19-29/18-19-29_26FEB10_2010-86.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/18-19-29_26FEB10_2010-86.pdf"
+},
+"10586": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-32/36-20-32_NE_23FEB10_2010-81.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-32_NE_23FEB10_2010-81.pdf"
+},
+"10588": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/04-19-30/4-19-30_20JAN10_2010-28.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/4-19-30_20JAN10_2010-28.pdf"
+},
+"10595": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/34-21-28/34-21-28_SW_12DEC09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/34-21-28_SW_12DEC09.pdf"
+},
+"10596": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/30-20-30/30-20-30_4DEC09_2009-586.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/30-20-30_4DEC09_2009-586.pdf"
+},
+"10597": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/30-20-31/30-20-31_4DEC09_2009-587.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/30-20-31_4DEC09_2009-587.pdf"
+},
+"10604": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-18-30/9-18-30_NW_24SEP09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/9-18-30_NW_24SEP09.pdf"
+},
+"10606": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-31/20-20-31_NE_31AUG09_2009-411.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-31_NE_31AUG09_2009-411.pdf"
+},
+"10607": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-20-28/8-20-28_SW_26AUG09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/8-20-28_SW_26AUG09.pdf"
+},
+"10608": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-20-28/17-20-28_NW_26AUG09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-20-28_NW_26AUG09.pdf"
+},
+"10609": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-28/3-19-28_SE_20AUG09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/3-19-28_SE_20AUG09.pdf"
+},
+"10618": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/HYLAND_PARK_UNIT2_PH1_2009-308.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/HYLAND_PARK_UNIT2_PH1_2009-308.pdf"
+},
+"10620": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-18-30/14-18-30_SW_1JUN09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-18-30_SW_1JUN09.pdf"
+},
+"10621": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/PLEASANT_CROSSING_PH2_2009-240.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/PLEASANT_CROSSING_PH2_2009-240.pdf"
+},
+"10633": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/04-20-28/4-20-28_NE_22JAN09_2009-35.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/4-20-28_NE_22JAN09_2009-35.pdf"
+},
+"10651": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/VANS_LAKESIDE_ACRES_2008-503.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/VANS_LAKESIDE_ACRES_2008-503.pdf"
+},
+"10658": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_20AUG08_2008-467.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_20AUG08_2008-467.pdf"
+},
+"10660": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/29-20-29/29-20-29_NW_14AUG08.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/29-20-29_NW_14AUG08.pdf"
+},
+"10667": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_27JUN08_2008-373.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_27JUN08_2008-373.pdf"
+},
+"10680": {
+"url": "https://gis.bentoncountyar.gov/plats/All_New_Plats/pdf_backup/ALTONS_FIRST_ADD_2008-327.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/ALTONS_FIRST_ADD_2008-327.pdf"
+},
+"10688": {
+"url": "https://gis.bentoncountyar.gov/plats/All_New_Plats/pdf_backup/FORREST_PARK_3RD_2008-306.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/FORREST_PARK_THIRD_2008-306.pdf"
+},
+"10743": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32/14-19-32_15JAN08_2008-28.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32_15JAN08_2008-28.pdf"
+},
+"10809": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_22AUG07.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_22AUG07.pdf"
+},
+"11286": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-20-30/17-20-30_SE_3NOV03_2003-971.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-20-30_SE_3NOV03_2003-971.pdf"
+},
+"11431": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27/31-19-27_NW_30SEP02_2002-162_1.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27_NW_30SEP02_2002-162_1.pdf"
+},
+"11494": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/28-20-32/28-20-32_01MAR02_P4-545.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/28-20-32_01MAR02_P4-545.pdf"
+},
+"11665": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/THE_PEAKS_PH2_P3-53.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/THE_PEAKS_PH2_P3-53.pdf"
+},
+"11755": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-30/5-19-30_4MAY99_P2-88.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-19-30_4MAY99_P2-88.pdf"
+},
+"11887": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-31_03MAR97_33-8.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-31_03MAR97_33-8.pdf.pdf"
+},
+"12223": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/8-17-33_NW_03SEP98_I_563.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/8-17-33_NW_03SEP98_I_563 .pdf"
+},
+"12384": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-32_L202548117.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RUAL/23-20-32_L202548117.PDF"
+},
+"12867": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/28-20-32_UNFILEDSURVEY.tif",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/28-20-32_UNFILEDSURVEY.pdf"
+},
+"13745": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-18-32_22APR16_2016293.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/08-18-32_22APR16_2016293.pdf.pdf"
+},
+"13800": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-32_02DEC15_2015726.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-32_02DEC15_2015726.pdf.pdf"
+},
+"13870": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-18-34/04-19-29_04JUN15_2015314.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/04-19-29_04JUN15_2015314.pdf"
+},
+"13879": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-21-30/15-18-32_22MAY15_2015287.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-18-32_22MAY15_2015287.pdf"
+},
+"13906": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-19-34/16-18-30_26MAR15_2015167.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/16-18-30_26MAR15_2015167.pdf"
+},
+"13933": {
+"url": "https://gis.bentoncountyar.gov/plats/30-19-29_02FEB15_2015-62.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/30-19-29_02FEB15_2015-62.pdf"
+},
+"14028": {
+"url": "https://gis.bentoncountyar.gov/plats/SULPHUR_SPRINGS/22-21-33_07MAY14_2014-221.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-33_07MAY14_2014-221.pdf"
+},
+"14448": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/32-19-32/32-19-32_SW_7NOV11_2011-490.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/32-19-32_SW_7NOV11_2011-490.pdf"
+},
+"14449": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/30-21-29/30-21-29_SE_7NOV11_2011-491.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/30-21-29_SE_7NOV11_2011-491.pdf"
+},
+"14506": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-20-32/05-20-32_11AUG11_2011-354.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-20-32_11AUG11_2011-354.pdf"
+},
+"14511": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-33/5-19-33_SE_9AUG11_2011-349.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-19-33_SE_9AUG11_2011-349.pdf"
+},
+"14569": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/WATERFORD_PARK_ADDITION_2011-189.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/WATERFORD_PARK_ADDITION_2011-189.pdf"
+},
+"14578": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/04-17-32/04-17-32_NE_14APR11_2011-165.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/04-17-32_NE_14APR11_2011-165.pdf"
+},
+"14585": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-18-32/17-18-32_SE_28MAR11_2011-141.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-18-32_SE_28MAR11_2011-141.pdf"
+},
+"14668": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-33/21-20-33-NW_17-SEP-2010-390.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-33-NW_17-SEP-2010-390.pdf"
+},
+"14669": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-21-33/36-21-32_SW_17SEP_2010_394.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/36-21-32_SW_17SEP_2010_394.pdf"
+},
+"14670": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-20-31/17-20-31_SE_17SEP_2010-395.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-20-31_SE_17SEP_2010-395.pdf"
+},
+"14671": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/27-20-33/27-20-33_SE_17SEP10_2010-392.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/27-20-33_SE_17SEP10_2010-392.pdf"
+},
+"14673": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-29/22-20-29_SE_9SEP10_2010-382.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-29_SE_9SEP10_2010-382.pdf"
+},
+"14681": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-18-28/3-18-28_NE_2010-372.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/3-18-28_NE_2010-372.pdf"
+},
+"14682": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/33-19-32/33-19-32_SW_25AUG10_2010-360.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/33-19-32_SW_25AUG10_2010-360.pdf"
+},
+"14683": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-32/22-19-32_NWNE_25AUG10_2010-361.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-32_NWNE_25AUG10_2010-361.pdf"
+},
+"14716": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/30-21-29/30-21-29_NW_28JULY_2010-310.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/30-21-29_NW_28JULY_2010-310.pdf"
+},
+"14723": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-31/12-20-31_NW_31MAR10.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-31_NW_31MAR10.pdf"
+},
+"14725": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-20-30/31-20-30_NE_24MAR10.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-20-30_NE_24MAR10.pdf"
+},
+"14726": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-20-31/5-20-31_SW_23MAR10.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-20-31_SW_23MAR10.pdf"
+},
+"14727": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-20-31/24-20-31_SW_16MAR10.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-20-31_SW_16MAR10.pdf"
+},
+"14729": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-18-29/5-18-29_SW_3MAR10_2010-99.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-18-29_SW_3MAR10_2010-99.pdf"
+},
+"14733": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/07-19-30/7-19-30_29JAN10.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/7-19-30_29JAN10.pdf"
+},
+"14738": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-20-32/31-20-32_SW_13JAN10.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-20-32_SW_13JAN10.pdf"
+},
+"14739": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/28-19-30/28-19-30_NE_12JAN10.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/28-19-30_NE_12JAN10.pdf"
+},
+"14743": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/WILDWOOD_PH5_2009-588.PDF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/WILDWOOD_PH5_2009-588.pdf"
+},
+"14748": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-18-28/3-18-28_NE_2NOV09_2009-535.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/3-18-28_NE_2NOV09_2009-535.pdf"
+},
+"14749": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/11-18-30/11-18-30_NE_30OCT09_2009-533.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/11-18-30_NE_30OCT09_2009-533.pdf"
+},
+"14750": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-20-31/8-20-31_SW_21OCT09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/8-20-31_SW_21OCT09.pdf"
+},
+"14751": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/35-19-31/35-19-31_NE_15OCT09_2009-504.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/35-19-31_NE_15OCT09_2009-504.pdf"
+},
+"14752": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/35-19-31/35-19-31_NE_15OCT09_2009-506.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/35-19-31_NE_15OCT09_2009-506.pdf"
+},
+"14753": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-19-31/36-19-31_NW_15OCT09_2009-506.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/36-19-31_NW_15OCT09_2009-506.pdf"
+},
+"14754": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-19-31/36-19-31_NW_15OCT09_2009-504.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/36-19-31_NW_15OCT09_2009-504.pdf"
+},
+"14755": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-30/22-20-30_SE_8OCT09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-30_SE_8OCT09.pdf"
+},
+"14759": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/19-20-30/19-20-30_NW_19SEP09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/19-20-30_NW_19SEP09.pdf"
+},
+"14761": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-32/12-20-32_SW_14SEP09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-32_SW_14SEP09.pdf"
+},
+"14762": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-32/13-20-32_NW_14SEP09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-32_NW_14SEP09.pdf"
+},
+"14764": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/06-19-29/6-19-29_SW_10SEP09_2009-443.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/6-19-29_SW_10SEP09_2009-443.pdf"
+},
+"14767": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/35-21-30/35-21-30_SW_10SEP09_2009-442.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/35-21-30_SW_10SEP09_2009-442.pdf"
+},
+"14768": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-28/33-21-28_SE_10SEP09_2009-446.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-28_SE_10SEP09_2009-446.pdf"
+},
+"14770": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-28/24-19-28_SE_1SEP09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-28_SE_1SEP09.pdf"
+},
+"14774": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-18-31/17-18-31_NE_29JUL09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-18-31_NE_29JUL09.pdf"
+},
+"14778": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-21-29/23-21-29_SW_15JUL09_2009-355.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-21-29_SW_15JUL09_2009-355.pdf"
+},
+"14782": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-32/33-21-32_NE_23JUN09_2009-312.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-32_NE_23JUN09_2009-312.pdf"
+},
+"14798": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-29/2-20-29_NW_26MAY09.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/2-20-29_NW_26MAY09.pdf"
+},
+"14846": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-28/33-21-28_NE_22JAN09_2009-35.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-28_NE_22JAN09_2009-35.pdf"
+},
+"14855": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/33-18-33/33-18-33_22DEC08_2008-663.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/33-18-33_22DEC08_2008-663.pdf"
+},
+"14865": {
+"url": "https://gis.bentoncountyar.gov/plats/All_New_Plats/pdf_backup/11-20-33_2OCT08_2008-564.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/11-20-33_2OCT08_2008-564.pdf"
+},
+"14889": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-19-31/WHITEHEAD_ADD_2008-653.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/WHITEHEAD_ADD_2008-653.pdf"
+},
+"14902": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/35-19-29/35-19-29_SW_28JUL08.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/35-19-29_SW_28JUL08.pdf"
+},
+"14904": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_SE_21JUL08_2008-414.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_SE_21JUL08_2008-414.pdf"
+},
+"14906": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-30/1-20-30_SE_18JUL08.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/1-20-30_SE_18JUL08.pdf"
+},
+"14928": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/07-19-27/17-19-27_SE_24JUN08_1.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-27_SE_24JUN08_1.pdf"
+},
+"14933": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-30/36-20-30_SW_19JUN08.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-30_SW_19JUN08.pdf"
+},
+"14941": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/28-19-30/28-19-30_NW_10JUN08_2008-345.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/28-19-30_NW_10JUN08_2008-345.pdf"
+},
+"14961": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-18-32/20-18-32_21MAY08_2008-309.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-18-32_21MAY08_2008-309.pdf"
+},
+"14985": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_22APR08_2008-242.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_22APR08_2008-242.pdf"
+},
+"15031": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/04-17-32/04-17-32_07MAR08_2008-155.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/04-17-32_07MAR08_2008-155.pdf"
+},
+"15037": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-30/33-21-30_NE_5MAR08_2008-146.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-30_NE_5MAR08_2008-146.pdf"
+},
+"15051": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-32/21-19-32_26FEB08_2008-126.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-32_26FEB08_2008-126.pdf"
+},
+"15095": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/28-21-29/28-21-29_SW_23JAN08_2008-54.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/28-21-29_SW_23JAN08_2008-54.pdf"
+},
+"15100": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-30/02-20-30_16JAN08_2008-30.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-30_16JAN08_2008-30.pdf"
+},
+"15110": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30/21-21-30_14JAN08_2008-21.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30_14JAN08_2008-21.pdf"
+},
+"15137": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_28NOV07_2007-962.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_28NOV07_2007-962.pdf"
+},
+"15138": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_28NOV07_2007-962A.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_28NOV07_2007-962A.pdf"
+},
+"15166": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-19-30/8-19-30_2NOV07_2007.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/8-19-30_2NOV07_2007.pdf"
+},
+"15202": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30/24-19-30_25SEP07_2007-799.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30_25SEP07_2007-799.pdf"
+},
+"15226": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-19-30/8-19-30_NW_5SEP07_2007-753.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/8-19-30_NW_5SEP07_2007-753.pdf"
+},
+"15227": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-19-30/8-19-30_N_05SEP07_2007-753.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/8-19-30_N_05SEP07_2007-753.pdf"
+},
+"15245": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-32/20-20-32_21AUG07_2007-698.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-32_21AUG07_2007-698.pdf"
+},
+"15292": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-32/03-19-32_07DEC07_2007-988.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-32_07DEC07_2007-988.pdf"
+},
+"15350": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-18-30/12-18-30_NW_16MAY07_2007-451.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-18-30_NW_16MAY07_2007-451.pdf"
+},
+"15374": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30/16-19-30_25APR07_2007-395.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30_25APR07_2007-395.pdf"
+},
+"15380": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_18APR07_2007-387.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_18APR07_2007-387.pdf"
+},
+"15381": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_18APR07_2007-387A.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_18APR07_2007-387A.pdf"
+},
+"15407": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/29-20-32/29-20-32_04APR07_2007-339.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/29-20-32_04APR07_2007-339.pdf"
+},
+"15425": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/28-20-28/28-20-28_SE_27MAR07_2007-301.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/28-20-28_SE_27MAR07_2007-301.pdf"
+},
+"15427": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-18-30/22-18-30_NW_27MAR07_2007-300.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-18-30_NW_27MAR07_2007-300.pdf"
+},
+"15431": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-30/22-21-30_26MAR07_2007-296.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-30_26MAR07_2007-296.pdf"
+},
+"15434": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-32/22-20-32_23MAR07_2007-294.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-32_23MAR07_2007-294.pdf"
+},
+"15498": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/26-20-29/26-20-29_NW_22FEB07.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/26-20-29_NW_22FEB07.pdf.pdf"
+},
+"15543": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-18-32/01-18-32_22JAN07_2007-57.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-18-32_22JAN07_2007-57.pdf"
+},
+"15652": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-18-32/08-18-32_02NOV06_2006-1329.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/08-18-32_02NOV06_2006-1329.pdf"
+},
+"15661": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-33/20-20-33_24OCT06_2006-1302.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-33_24OCT06_2006-1302.pdf"
+},
+"15668": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-30/13-20-30_18OCT06_2006-1275.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-30_18OCT06_2006-1275.pdf"
+},
+"15691": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32/12-19-32_14SEP06_2006-1109.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32_14SEP06_2006-1109.pdf"
+},
+"15791": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_28MAR05_2005-405.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_28MAR05_2005-405.pdf"
+},
+"15792": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_28MAR05_2005-406.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_28MAR05_2005-406.pdf"
+},
+"15793": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_28MAR05_2005-407.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_28MAR05_2005-407.pdf"
+},
+"15835": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30/17-19-30_04MAR05_319.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30_04MAR05_319.pdf"
+},
+"15867": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-33/21-19-33_01MAR05_2005-283.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-33_01MAR05_2005-283.pdf"
+},
+"15893": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_11FEB05_2005-201.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_11FEB05_2005-201.pdf"
+},
+"15927": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30/16-19-30_28JAN05_2005-127.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30_28JAN05_2005-127.pdf"
+},
+"15933": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30/17-19-30_25JAN05_2005-103.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30_25JAN05_2005-103.pdf"
+},
+"15975": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30/16-19-30_03JAN05_2005-16.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30_03JAN05_2005-16.pdf"
+},
+"15987": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_28DEC04_2004-1461.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_28DEC04_2004-1461.pdf"
+},
+"16001": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-33/02-20-33_10DEC04_2004-1426.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-33_10DEC04_2004-1426.pdf"
+},
+"16008": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-34/21-20-34_SW_02DEC04_2004-1400.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-34_SW_02DEC04_2004-1400.pdf"
+},
+"16019": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-31/03-19-31_30NOV04_2004-1375.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-31_30NOV04_2004-1375.pdf"
+},
+"16050": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/07-19-33/07-19-33_10NOV04_2004-1317.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/07-19-33_10NOV04_2004-1317.pdf"
+},
+"16053": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-32/20-20-32_09NOV04_2004-1302.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-32_09NOV04_2004-1302.pdf"
+},
+"16094": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-31/03-19-31_25OCT04_2004-1231.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-31_25OCT04_2004-1231.pdf"
+},
+"16108": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-31/21-20-31_14OCT04_2004-1204.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-31_14OCT04_2004-1204.pdf"
+},
+"16135": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_29SEP04_2004-1144.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_29SEP04_2004-1144.pdf"
+},
+"16164": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-30/22-21-30_14SEP04_2004-1081.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-30_14SEP04_2004-1081.pdf"
+},
+"16171": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-18-32/05-18-32_13SEP04_2004-1073.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-18-32_13SEP04_2004-1073.pdf"
+},
+"16200": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-32/24-19-32_26AUG04_2004-992.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-32_26AUG04_2004-992.pdf"
+},
+"16212": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-31/21-20-31_24AUG04_2004-983.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-31_24AUG04_2004-983.pdf"
+},
+"16215": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33/12-20-33_23AUG04_2004-977.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33_23AUG04_2004-977.pdf"
+},
+"16232": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/10-19-31/10-19-31_11AUG04_2004-928.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/10-19-31_11AUG04_2004-928.pdf"
+},
+"16258": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-30/01-20-30_03AUG04_2004-874.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-30_03AUG04_2004-874.pdf"
+},
+"16269": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/18-20-32/18-20-32_21JUL04_2004-744.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/18-20-32_21JUL04_2004-744.pdf"
+},
+"16271": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-29_21JUL04_2004-737.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-29_21JUL04_2004-737.pdf.pdf"
+},
+"16296": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-21-30/15-21-30_09JUL04_2004-716.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-21-30_09JUL04_2004-716.pdf"
+},
+"16328": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-30/21-20-30_28JUN04_2004-642.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-30_28JUN04_2004-642.pdf"
+},
+"16333": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-30/SHADOW_VALLEY_PUD_PHASE_4_LOTS_1-35_2004-630.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/SHADOW_VALLEY_PUD_PHASE_4_LOTS_1-35_2004-630.pdf"
+},
+"16361": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30/11-19-30_09JUN04_2004-569.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30_09JUN04_2004-569.pdf"
+},
+"16374": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-30/22_21_30_SE_28MAY04.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22_21_30_SE_28MAY04.pdf"
+},
+"16389": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-32/02-20-32_20MAY04_2004-490.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-32_20MAY04_2004-490.pdf"
+},
+"16390": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-32/02-20-32_20MAY04_2004-489.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-32_20MAY04_2004-489.pdf"
+},
+"16394": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-33/24-19-33_17MAY04_2004-481.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-33_17MAY04_2004-481.pdf"
+},
+"16404": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30/17-19-30_06MAY04_2004-453.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30_06MAY04_2004-453.pdf"
+},
+"16412": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-30/21-20-30_30APR04_2004-443.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-30_30APR04_2004-443.pdf"
+},
+"16415": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30/24-19-30_28APR04_2004-427.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30_28APR04_2004-427.pdf"
+},
+"16477": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-21-30/LUCKY-ACRES-SUBDV_23MAR04_2004-297.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/LUCKY-ACRES-SUBDV_23MAR04_2004-297.pdf"
+},
+"16485": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30/20-20-30_15MAR04_2004-274.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30_15MAR04_2004-274.pdf"
+},
+"16496": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-19-31/08-19-31_02MAR04_2004-246.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/08-19-31_02MAR04_2004-246.pdf"
+},
+"16510": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_24FEB04_2004-221.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_24FEB04_2004-221.pdf"
+},
+"16553": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-18-32/05-18-32_02FEB04_2004-125.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-18-32_02FEB04_2004-125.pdf"
+},
+"16587": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32/13-19-32_07JAN04_2004-38.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32_07JAN04_2004-38.pdf"
+},
+"16623": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30/21-21-30_17DEC03_2003-1082.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30_17DEC03_2003-1082.pdf"
+},
+"16626": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32/05-17-32_10DEC03_2003-1068.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32_10DEC03_2003-1068.pdf"
+},
+"16627": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-19-32/08-19-32_09DEC03_2003-1067.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/08-19-32_09DEC03_2003-1067.pdf"
+},
+"16671": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30/21-21-30_04NOV03_2003-968.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30_04NOV03_2003-968.pdf"
+},
+"16692": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32/23-19-32_23OCT03_2003-932.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32_23OCT03_2003-932.pdf"
+},
+"16707": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/19-20-29/20-19-29_21OCT03_2003-917.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-19-29_21OCT03_2003-917.pdf"
+},
+"16721": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30/21-21-30_15OCT03_2003-892.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30_15OCT03_2003-892.pdf"
+},
+"16722": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30/21-21-30_15OCT03_2003-894.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30_15OCT03_2003-894.pdf"
+},
+"16730": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30/21-21-30_10OCT03_2003-881.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30_10OCT03_2003-881.pdf"
+},
+"16799": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-31/03-19-31_9SEP03_2003-813.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-31_9SEP03_2003-813.pdf"
+},
+"16800": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-20-30/17-20-30_09SEP03_2003-767.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-20-30_09SEP03_2003-767.pdf"
+},
+"16850": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_15AUG03_2003-687.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_15AUG03_2003-687.pdf"
+},
+"16865": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-32/22-19-32_12AUG03_2003-662.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-32_12AUG03_2003-662.pdf"
+},
+"16877": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-18-34/36-18-34_01AUG03_2003-644.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/36-18-34_01AUG03_2003-644.pdf"
+},
+"16880": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30/21-21-30_30JUL03_2003-629.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-30_30JUL03_2003-629.pdf"
+},
+"16885": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30/24-19-30_25JUL03_2003-620.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30_25JUL03_2003-620.pdf"
+},
+"16898": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/13-19-30_18JUL03_5910001.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_18JUL03_5910001.pdf"
+},
+"16901": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-32/02-20-32_16JUL03_2003-578.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-32_16JUL03_2003-578.pdf"
+},
+"16927": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-32/21-19-32_30JUN03_2003-528.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-32_30JUN03_2003-528.pdf"
+},
+"16951": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/25-19-34/25-19-34_18JUN03_2003-492.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/25-19-34_18JUN03_2003-492.pdf"
+},
+"16969": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32/13-19-32_04JUN03_2003-456.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32_04JUN03_2003-456.pdf"
+},
+"16976": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-30/22-21-30_03JUN03_2003-445.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-30_03JUN03_2003-445.pdf"
+},
+"16983": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-31/13-20-31_27MAY03_2003-415.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-31_27MAY03_2003-415.pdf"
+},
+"16984": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32/13-19-32_27MAY03_2003-417.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32_27MAY03_2003-417.pdf"
+},
+"17007": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30/11-19-30_06MAY03_2003-375.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30_06MAY03_2003-375.pdf"
+},
+"17016": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/06-20-33/06-20-33_29APR03_2003-357.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/06-20-33_29APR03_2003-357.pdf"
+},
+"17082": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/32-19-30/32-19-29_07APR03_2003-249.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/32-19-29_07APR03_2003-249.pdf"
+},
+"17085": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30/17-19-30_04APR03_2003-150.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30_04APR03_2003-150.pdf"
+},
+"17089": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_02APR03_2003-237.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_02APR03_2003-237.pdf"
+},
+"17110": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30/20-20-30_20MAY03_2003-402.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30_20MAY03_2003-402.pdf"
+},
+"17115": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30/20-20-30_18MAR03_2003-194.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30_18MAR03_2003-194.pdf"
+},
+"17122": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30/20-20-30_17MAR03_2003-180.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30_17MAR03_2003-180.pdf"
+},
+"17194": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_28JAN03_2003-56.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_28JAN03_2003-56.pdf"
+},
+"17205": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-33/23-20-33_17JAN03_2003-37.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-33_17JAN03_2003-37.pdf"
+},
+"17206": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_17JAN03_2003-33.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_17JAN03_2003-33.pdf"
+},
+"17229": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/25-19-28/25-19-28_2JAN03.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/25-19-28_2JAN03.pdf"
+},
+"17230": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/07-19-31/07-19-31_30DEC02_2002-393.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/07-19-31_30DEC02_2002-393.pdf"
+},
+"17273": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/06-19-31/06-19-31_15NOV02_2002-316.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/06-19-31_15NOV02_2002-316.pdf"
+},
+"17287": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-30/23-20-30_14NOV02_2002-290.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-30_14NOV02_2002-290.pdf"
+},
+"17290": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/32-17-32_13NOV02_2002-288.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/32-27-32_13NOV02_2002-288.pdf"
+},
+"17310": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-20-32/03-20-32_04NOV02_2002-260.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-20-32_04NOV02_2002-260.pdf"
+},
+"17358": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-18-29_NE_19SEP02_2002-138.pdf",
+"basis": "PUNCT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-18-29_NE_19SEP02_2002-138..pdf"
+},
+"17363": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-33/02-20-33_19SEP02_2002-142.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-33_19SEP02_2002-142.pdf"
+},
+"17366": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-29_16SEP02_2002-129.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-29_16SEP02_2002-129.pdf.pdf"
+},
+"17388": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-33/02-20-33_30AUG02_2002-86.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-33_30AUG02_2002-86.pdf"
+},
+"17410": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_19AUG02_30-52.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_19AUG02_30-52.pdf"
+},
+"17423": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-20-30/03-20-30_07AUG02_2002-25.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-20-30_07AUG02_2002-25.pdf"
+},
+"17477": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32/14-19-32_21JUN02_P4-812.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32_21JUN02_P4-812.pdf"
+},
+"17503": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32/23-19-32_10JUN02_P4-763.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32_10JUN02_P4-763.pdf"
+},
+"17532": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_09MAY02_P4-699.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_09MAY02_P4-699.pdf"
+},
+"17551": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-32/21-19-32_17APR02_P4-647.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-32_17APR02_P4-647.pdf"
+},
+"17571": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_28MAR02_P4-604.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_28MAR02_P4-604.pdf"
+},
+"17591": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-20-33/15-20-33_07MAR02_P4-564.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-20-33_07MAR02_P4-564.pdf"
+},
+"17607": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30/20-20-30_21FEB02_P4-523.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30_21FEB02_P4-523.pdf"
+},
+"17646": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30/24-19-30_25JAN02_P4-459.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30_25JAN02_P4-459.pdf"
+},
+"17649": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-31/22-20-31_23JAN02_04-453.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-31_23JAN02_04-453.pdf"
+},
+"17650": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-31/22-20-31_23JAN02_P4-451.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-31_23JAN02_P4-451.pdf"
+},
+"17651": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-31/22-20-31_23JAN02_P4-452.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-31_23JAN02_P4-452.pdf"
+},
+"17653": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-31/22-20-31_23JAN02_P4-455.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-31_23JAN02_P4-455.pdf"
+},
+"17664": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-31/13-20-31_17JAN02_P4-436.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-31_17JAN02_P4-436.pdf"
+},
+"17674": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-31/21-20-31_10JAN02_P4-417.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-31_10JAN02_P4-417.pdf"
+},
+"17690": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32/23-19-32_18DEC01_P4-381.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32_18DEC01_P4-381.pdf"
+},
+"17696": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32/13-19-32_10DEC01_P4-368.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32_10DEC01_P4-368.pdf"
+},
+"17710": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32/13-19-32_29NOV01_P4-334.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32_29NOV01_P4-334.pdf"
+},
+"17722": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32/23-19-32_20NOV01_P4-317.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32_20NOV01_P4-317.pdf"
+},
+"17728": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32/23-19-32_14NOV01_P4-300.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32_14NOV01_P4-300.pdf"
+},
+"17738": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_09NOV01_P4-288.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_09NOV01_P4-288.pdf"
+},
+"17828": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-20-32/03-20-32_04SEP01_P4-130.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-20-32_04SEP01_P4-130.pdf"
+},
+"17838": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32/09-19-32_31AUG01_P4-115.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32_31AUG01_P4-115.pdf"
+},
+"17849": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-32/21-19-32_24AUG01_P4-96.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-32_24AUG01_P4-96.pdf"
+},
+"17899": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-32/22-19-32_18JUL01_P3-993.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-32_18JUL01_P3-993.pdf"
+},
+"17907": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-21-31/15-21-31_13JUL01_P3-984.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-21-31_13JUL01_P3-984.pdf"
+},
+"17928": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-18-32/20-18-32_21JUN01_P3-947.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-18-32_21JUN01_P3-947.pdf"
+},
+"17953": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_1JUN01_P3-895.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_1JUN01_P3-895.pdf"
+},
+"17957": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-31/22-20-31_31MAY01_P3-890.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-31_31MAY01_P3-890.pdf"
+},
+"17964": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/06-19-31/06-19-31_22MAY01_P3-876.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/06-19-31_22MAY01_P3-876.pdf"
+},
+"18028": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30/20-20-30_19APR01_P3-763.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30_19APR01_P3-763.pdf"
+},
+"18051": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30/16-19-30_04APR01_P3-727.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30_04APR01_P3-727.pdf"
+},
+"18083": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-30/02-20-30_15MAR01_P3-676A.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-30_15MAR01_P3-676A.pdf"
+},
+"18096": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_5MAR01_P3-657.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_5MAR01_P3-657.pdf"
+},
+"18097": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_5MAR01_P3-658.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_5MAR01_P3-658.pdf"
+},
+"18101": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/07-18-18/7-18-18-30_28FEB01_P4-36.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/7-18-18-30_28FEB01_P4-36.pdf"
+},
+"18129": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_26JAN01_P3-594.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_26JAN01_P3-594.pdf"
+},
+"18149": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/LAGO_ESTATES_UNIT_1_23JAN01_2014-105.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/DEL_LAGO_ESTATES_UNIT_1_23JAN01_2014-105.pdf"
+},
+"18158": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-20-30/17-20-30_19JAN01_P3-557.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-20-30_19JAN01_P3-557.pdf"
+},
+"18160": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_16JAN01_P3-551.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_16JAN01_P3-551.pdf"
+},
+"18186": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_18DEC00_P3-500.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_18DEC00_P3-500.pdf"
+},
+"18192": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_08DEC00_P3-491.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_08DEC00_P3-491.pdf"
+},
+"18196": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_05DEC00_P3-480.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_05DEC00_P3-480.pdf"
+},
+"18237": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-31_16NOV00_P3-433.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-2-19-31_16NOV00_P3-433.pdf"
+},
+"18263": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-19-32/02-19-32_01NOV00_P3-373.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-19-32_01NOV00_P3-373.pdf"
+},
+"18272": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33/12-20-33_24OCT00_P3-358.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33_24OCT00_P3-358.pdf"
+},
+"18284": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-30/13-20-30_12OCT00_P3-336.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-30_12OCT00_P3-336.pdf"
+},
+"18338": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-20-30/14-20-30_24AUG00_P3-220.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-20-30_24AUG00_P3-220.pdf"
+},
+"18358": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30/16-19-30_24JUL00_P3-164.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30_24JUL00_P3-164.pdf"
+},
+"18368": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-21-30/15-21-30_17JUL00_P3-148.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-21-30_17JUL00_P3-148.pdf"
+},
+"18390": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32/13-19-32_29JUN00_P3-107.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32_29JUN00_P3-107.pdf"
+},
+"18396": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32/13-19-32_27JUN00_P3-97.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32_27JUN00_P3-97.pdf"
+},
+"18406": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-30/22-21-30_14JUN00_P3-75.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-30_14JUN00_P3-75.pdf"
+},
+"18438": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_24MAY00_P3-13.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_24MAY00_P3-13.pdf"
+},
+"18468": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32/13-19-32_02MAY00_P2-962.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32_02MAY00_P2-962.pdf"
+},
+"18473": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-18-32/09-18-32_26APR00_P2-957.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/09-18-32_26APR00_P2-957.pdf"
+},
+"18498": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30/16-19-3013APR00_P2-906.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-3013APR00_P2-906.pdf"
+},
+"18534": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33/12-20-33_23MAR00_P2-864.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33_23MAR00_P2-864.pdf"
+},
+"18551": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-30/13-20-30_07MAR00_P2-825.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-30_07MAR00_P2-825.pdf"
+},
+"18569": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_18FEB00_P2-787.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_18FEB00_P2-787.pdf"
+},
+"18579": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-31/01-20-31_10FEB00_P2-769.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-31_10FEB00_P2-769.pdf"
+},
+"18612": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-21-30/15-21-30_13JAN00_P2-705.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-17-30_13JAN00_P2-705.pdf"
+},
+"18622": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-20-33/15-20-33_04JAN00_P2-694.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-20-33_04JAN00_P2-694.pdf"
+},
+"18680": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/16-20-30/16-20-30_24NOV99_P2-602.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/16-20-30_24NOV99_P2-602.pdf"
+},
+"18691": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-30/5-19-30_15NOV99_P2-563.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-19-30_15NOV99_P2-563.pdf"
+},
+"18727": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30/24-19-30_27OCT99_P2-526.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30_27OCT99_P2-526.pdf"
+},
+"18770": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/35-20-30/35-20-30_30SEP99_P2-473.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/35-20-30_30SEP99_P2-473.pdf"
+},
+"18773": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-30/5-19-30_30SEP99.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-19-30_30SEP99.pdf"
+},
+"18774": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-30/5-19-30_30SEP99_1.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-19-30_30SEP99_1.pdf"
+},
+"18776": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-30/5-19-30_30SEP99_3.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-19-30_30SEP99_3.pdf"
+},
+"18777": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-30/5-19-30_30SEP99_4.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-19-30_30SEP99_4.pdf"
+},
+"18829": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30/16-19-30_27AUG99_P2-390.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30_27AUG99_P2-390.pdf"
+},
+"18860": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-20-32/03-20-32_20AUG99_P2-346.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-20-32_20AUG99_P2-346.pdf"
+},
+"18864": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-31/22-20-31_19AUG99_P2-339.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-31_19AUG99_P2-339.pdf"
+},
+"18925": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-19-32/02-19-32_30JUN99_P2-241.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-19-32_30JUN99_P2-241.pdf"
+},
+"18928": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32/13-19-32_30JUN99_P2-242.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32_30JUN99_P2-242.pdf"
+},
+"18929": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_30JUN99_P2-240.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_30JUN99_P2-240.pdf"
+},
+"18977": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32/23-19-32_19MAY99_P2-132.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32_19MAY99_P2-132.pdf"
+},
+"19042": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-19-30/20-19-30_26MAR99_P1-995.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-19-30_26MAR99_P1-995.pdf"
+},
+"19129": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_11JAN99_P1-862.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_11JAN99_P1-862.pdf"
+},
+"19190": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32/13-19-32_03DEC98_P1-775.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32_03DEC98_P1-775.pdf"
+},
+"19197": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-21-30/15-21-30_24NOV98_P1-766.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-17-30_24NOV98_P1-766.pdf"
+},
+"19200": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-20-31/15-20-31_20NOV98_P1-762.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-20-31_20NOV98_P1-762.pdf"
+},
+"19202": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30/17-19-30_18NOV98_P1-758.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30_18NOV98_P1-758.pdf"
+},
+"19216": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-21-30/15-21-30_13NOV98_P1-740.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-17-30_13NOV98_P1-740.pdf"
+},
+"19252": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-31/01-20-31_26OCT98_P1-699.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-31_26OCT98_P1-699.pdf"
+},
+"19271": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_08OCT98_P1-667.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_08OCT98_P1-667.pdf"
+},
+"19272": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/10-19-30_SE_07OCT98_P1-665.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/10-19-30_NW_07OCT98_P1-665.pdf"
+},
+"19276": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_06OCT98_P1-656.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_06OCT98_P1-656.pdf"
+},
+"19286": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-31/03-19-31_25SEP98_1-639.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-31_25SEP98_1-639.pdf"
+},
+"19291": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_24SEP98_1-633.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_24SEP98_1-633.pdf"
+},
+"19356": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-19-32/08-19-32_07AUG98_1-495.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/08-19-32_07AUG98_1-495.pdf"
+},
+"19371": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-20-31/15-20-31_29JUL98_1-467.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-20-31_29JUL98_1-467.pdf"
+},
+"19408": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-32/17-19-32_09JUL98_1-417.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-32_09JUL98_1-417.pdf"
+},
+"19410": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-32/17-19-32_09JUL98_1-416.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-32_09JUL98_1-416.pdf"
+},
+"19411": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-32/17-19-32_09JUL98_1-419.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-32_09JUL98_1-419.pdf"
+},
+"19419": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-32/21-19-32_29JUN98_1-402.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-32_29JUN98_1-402.pdf"
+},
+"19423": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_24JUN98_P1-107.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_24JUN98_P1-107.pdf"
+},
+"19439": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-30/14-19-30_11JUN98_1-80.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-30_11JUN98_1-80.pdf"
+},
+"19465": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_21MAY98_P1-30.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_21MAY98_P1-30.pdf"
+},
+"19493": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_27APR98_35-54.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_27APR98_35-54.pdf"
+},
+"19523": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-18-32/13-18-32_10APR98_23L-219.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-18-32_10APR98_23L-219.pdf"
+},
+"19552": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/07-19-31/07-19-31_20MAR98_23L-201.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/07-19-31_20MAR98_23L-201.pdf"
+},
+"19553": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-30/22-20-30_19MAR98_34-246B.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-30_19MAR98_34-246B.pdf"
+},
+"19560": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-28/33-21-28_NW_17MAR98_34-237.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-28_NW_17MAR98_34-237.pdf"
+},
+"19657": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-20-31/15-20-31_29DEC97_23L-137.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-20-31_29DEC97_23L-137.pdf"
+},
+"19662": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32/14-19-32_23DEC97_23L-135.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32_23DEC97_23L-135.pdf"
+},
+"19692": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-29/21-20-29_4DEC97_34-93.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-29_4DEC97_34-93.pdf"
+},
+"19755": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_18SEP97_34-18.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_18SEP97_34-18.pdf"
+},
+"19774": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_05SEP97_23L-63.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_05SEP97_23L-63.pdf"
+},
+"19787": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_28AUG97_33-251.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_28AUG97_33-251.pdf"
+},
+"19801": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_25AUG97_23L-48.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_25AUG97_23L-48.pdf"
+},
+"19825": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-21-30/15-21-30_07AUG97_23L-26.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-17-30_07AUG97_23L-26.pdf"
+},
+"19843": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33/12-20-33_28JUL97_33-213.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33_28JUL97_33-213.pdf"
+},
+"19851": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-30/23-20-30_18JUL97_23L-11.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-30_18JUL97_23L-11.pdf"
+},
+"19853": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32/14-19-32_17JUL97_23L-10.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32_17JUL97_23L-10.pdf"
+},
+"19863": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_10JUL97_33-194.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_10JUL97_33-194.pdf"
+},
+"19864": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_10JUL97_33-194A.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_10JUL97_33-194A.pdf"
+},
+"19893": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_20JUN97_33-161.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_20JUN97_33-161.pdf"
+},
+"19963": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-30/22-20-30_12MAY97_22L-251.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-20-30_12MAY97_22L-251.pdf"
+},
+"19986": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_21APR97_22L-235.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_21APR97_22L-235.pdf"
+},
+"20036": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-21-30/15-21-30_25MAR97_22L-207.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-17-30_25MAR97_22L-207.pdf"
+},
+"20062": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_06MAR97_22L-191.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_06MAR97_22L-191.pdf"
+},
+"20081": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_26FEB97_32-243.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_26FEB97_32-243.pdf"
+},
+"20087": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32/05-17-32_26FEB97_32-234.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32_26FEB97_32-234.pdf"
+},
+"20186": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-31/21-21-31_21NOV96_22L-113.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-21-31_21NOV96_22L-113.pdf"
+},
+"20193": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_19NOV96_32-112.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_19NOV96_32-112.pdf"
+},
+"20266": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/04-20-34/04-20-34_28OCT96_32-36.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/04-20-34_28OCT96_32-36.pdf"
+},
+"20303": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-19-34/01-19-34_08OCT96_31-245.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-19-34_08OCT96_31-245.pdf"
+},
+"20328": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-18-32/13-18-32_27SEP96_31-225.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-18-32_27SEP96_31-225.pdf"
+},
+"20329": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-18-32/13-18-32_27SEP96_31-226.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-18-32_27SEP96_31-226.pdf"
+},
+"20361": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27/31-19-27_SW_11SEP96_22L-36.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27_SW_11SEP96_22L-36.pdf"
+},
+"20364": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-28/33-21-28_NW_10SEP96_31-194.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-28_NW_10SEP96_31-194.pdf"
+},
+"20371": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-31/01-20-31_04SEP96_22L-20.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-31_04SEP96_22L-20.pdf"
+},
+"20388": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-30/23-19-30_27AUG96_22L-25.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-30_27AUG96_22L-25.pdf"
+},
+"20396": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27/31-19-27_26AUG96_22L-24.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27_26AUG96_22L-24.pdf"
+},
+"20426": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-19-31/02-19-31_31JUL96_31-98.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-19-31_31JUL96_31-98.pdf"
+},
+"20486": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_18JUL96_30-910001.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_18JUL96_30-910001.pdf"
+},
+"20608": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-21-31/23-21-31_10MAY96_21L-224.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-21-31_10MAY96_21L-224.pdf"
+},
+"20659": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-33/23-20-33_18APR96_30-178.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-33_18APR96_30-178.pdf"
+},
+"20679": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_15APR96_30-154.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_15APR96_30-154.pdf"
+},
+"20690": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_01APR96_21L-187.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_01APR96_21L-187.pdf"
+},
+"20811": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/27-21-30/27-21-30_17JAN96_30-16.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/27-21-30_17JAN96_30-16.pdf"
+},
+"20864": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-19-27/8-19-27_12DEC1995.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/8-19-27_12DEC1995.pdf"
+},
+"20891": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_28NOV95_21L-71.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_28NOV95_21L-71.pdf"
+},
+"20936": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30/24-19-30_24OCT95_21L-50.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30_24OCT95_21L-50.pdf"
+},
+"20947": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-30/22-21-30_19OCT95_21L-43.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-30_19OCT95_21L-43.pdf"
+},
+"20961": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-33/13-20-33_11OCT95_29-142.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-33_11OCT95_29-142.pdf"
+},
+"20967": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_10OCT95_29-140.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_10OCT95_29-140.pdf"
+},
+"20977": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_04OCT95_29-135.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_04OCT95_29-135.pdf"
+},
+"20982": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/29-19-27/29-19-27_NE_29SEP95_21L-20.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/29-19-27_NE_29SEP95_21L-20.pdf"
+},
+"21046": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_23AUG95_20-298.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_23AUG95_20-298.pdf"
+},
+"21059": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30/11-19-30_10AUG95_20-288.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30_10AUG95_20-288.pdf"
+},
+"21067": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-21-30/13-21-30_10AUG95_20-283.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-21-30_10AUG95_20-283.pdf"
+},
+"21068": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-21-30/13_21_30_NW_10AUG95.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13_21_30_NW_10AUG95.pdf"
+},
+"21089": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-32/16-19-32_01AUG95_29-8.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-32_01AUG95_29-8.pdf"
+},
+"21097": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_28JUL95_28-288.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_28JUL95_28-288.pdf"
+},
+"21193": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_25MAY95_28-148.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_25MAY95_28-148.pdf"
+},
+"21223": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_03MAY95_28-109.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_03MAY95_28-109.pdf"
+},
+"21251": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_13APR95_20-197.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_13APR95_20-197.pdf"
+},
+"21285": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27/31-19-27_SW_24MAR95_28-45.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27_SW_24MAR95_28-45.pdf"
+},
+"21311": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30/17-19-30_06MAR95_20-162.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30_06MAR95_20-162.pdf"
+},
+"21330": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/29-20-33/29-20-33_17FEB95_27-271.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/29-20-33_17FEB95_27-271.pdf"
+},
+"21333": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/32-19-27/32-19-27_14FEB95_27-268.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/32-19-27_14FEB95_27-268.pdf"
+},
+"21343": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/27-19-29/27-19-29_6FEB95_20-130.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/27-19-29_6FEB95_20-130.pdf"
+},
+"21493": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_28OCT94_27-92.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_28OCT94_27-92.pdf"
+},
+"21581": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_12SEP94_27-27.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_12SEP94_27-27.pdf"
+},
+"21628": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_22AUG94_26-300.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_22AUG94_26-300.pdf"
+},
+"21744": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_01JUN94_26-165.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_01JUN94_26-165.pdf"
+},
+"21806": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_03MAY94_26-106A.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_03MAY94_26-106A.pdf"
+},
+"21935": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/32-19-27/32-19-27_22FEB94_25-284.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/32-19-27_22FEB94_25-284.pdf"
+},
+"21967": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/28-19-30_24JAN94_25-244.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/28-19-30_24JAN94_25-244.pdf"
+},
+"22056": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_16DEC93_25-186.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_16DEC93_25-186.pdf"
+},
+"22205": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-32/03-19-32_09SEP93_18-171.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-32_09SEP93_18-171.pdf"
+},
+"22227": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_13AUG93_18-155.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_13AUG93_18-155.pdf"
+},
+"22259": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_03AUG93_18-145.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_03AUG93_18-145.pdf"
+},
+"22354": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33/12-20-33_20MAY93_24-166.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33_20MAY93_24-166.pdf"
+},
+"22372": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30/11-19-30_07MAY93_18-85.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30_07MAY93_18-85.pdf"
+},
+"22391": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30/11-19-30_05MAY93_18-78.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30_05MAY93_18-78.pdf"
+},
+"22453": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30/24-19-30_25MAR93_18-35.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30_25MAR93_18-35.pdf"
+},
+"22463": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_22MAR93_24-89.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_22MAR93_24-89.pdf"
+},
+"22464": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_22MAR93_24-90.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_22MAR93_24-90.pdf"
+},
+"22492": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_19MAR93_24-670001.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_19MAR93_24-670001.pdf"
+},
+"22711": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_23OCT92_17-130.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_23OCT92_17-130.pdf"
+},
+"22771": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-32/22-19-32_17SEP92_17-67.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-32_17SEP92_17-67.pdf"
+},
+"22793": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-31/01-20-31_15SEP92_17-58.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-31_15SEP92_17-58.pdf"
+},
+"22841": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_11AUG92_16-302.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_11AUG92_16-302.pdf"
+},
+"23023": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32/09-19-32_20APR92_23-102.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32_20APR92_23-102.pdf"
+},
+"23024": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32/09-19-32_20APR92_23-103.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32_20APR92_23-103.pdf"
+},
+"23025": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32/09-19-32_20APR92_23-97.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32_20APR92_23-97.pdf"
+},
+"23026": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32/09-19-32_20APR92_23-98.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32_20APR92_23-98.pdf"
+},
+"23027": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32/09-19-32_20APR92_23-99.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32_20APR92_23-99.pdf"
+},
+"23051": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_27MAR92_23-630001.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_27MAR92_23-630001.pdf"
+},
+"23062": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-31/13-20-31_18MAR92_16-196.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-31_18MAR92_16-196.pdf"
+},
+"23094": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/07-19-32/07-19-32_02MAR92_22-297.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/07-19-32_02MAR92_22-297.pdf"
+},
+"23143": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30/24-19-30_24JAN92_16-165.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-30_24JAN92_16-165.pdf"
+},
+"23198": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-29/9-19-29_12DEC91_16-150.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/9-19-29_12DEC91_16-150.pdf"
+},
+"23252": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-32/03-19-32_10OCT91_16-125.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-32_10OCT91_16-125.pdf"
+},
+"23306": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30/11-19-30_09SEP91_16-109.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30_09SEP91_16-109.pdf"
+},
+"23333": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-29_16AUG91_H.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-29_16AUG91_H.pdf.pdf"
+},
+"23362": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-31/03-19-31_23JUL91_16-81.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-19-31_23JUL91_16-81.pdf"
+},
+"23403": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_03JUL91_16-74.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_03JUL91_16-74.pdf"
+},
+"23410": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_24JUN91_16-70.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_24JUN91_16-70.pdf"
+},
+"23443": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-19-34/02-19-34_10JUN91_21-156.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-19-34_10JUN91_21-156.pdf"
+},
+"23444": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-18-32/05-18-32_07JUN91_16-60.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-18-32_07JUN91_16-60.pdf"
+},
+"23473": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_28MAY91_16-49.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_28MAY91_16-49.pdf"
+},
+"23532": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_22APR91_16-23.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_22APR91_16-23.pdf"
+},
+"23548": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30/20-20-30_10APR91_16-12.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30_10APR91_16-12.pdf"
+},
+"23568": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30/16-19-30_27MAR91_16-8.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-30_27MAR91_16-8.pdf"
+},
+"23633": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32/23-19-32_25FEB91_20-217.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32_25FEB91_20-217.pdf"
+},
+"23655": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-20-30/17-20-30_13FEB91_A15-284.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-20-30_13FEB91_A15-284.pdf"
+},
+"23685": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_24JAN91_A15-278.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_24JAN91_A15-278.pdf"
+},
+"23704": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_08JAN91_A15-269.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_08JAN91_A15-269.pdf"
+},
+"23741": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_18DEC90_20-101.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_18DEC90_20-101.pdf"
+},
+"23776": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-20-30/15-20-30_05DEC90_A15-248.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/15-20-30_05DEC90_A15-248.pdf"
+},
+"23830": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/25-20-32/25-20-32_24OCT90_19-296.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/25-20-32_24OCT90_19-296.pdf"
+},
+"23866": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-30/01-20-30_25SEP90_A15-199.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-30_25SEP90_A15-199.pdf"
+},
+"23884": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_21SEP90_19-220.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_21SEP90_19-220.pdf"
+},
+"23953": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32/14-19-32_09AUG90_A15-170.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32_09AUG90_A15-170.pdf"
+},
+"23962": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_09AUG90_15-169.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_09AUG90_15-169.pdf"
+},
+"23986": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_17JUL90_10-128.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_17JUL90_10-128.pdf"
+},
+"23998": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32/14-19-32_06JUL90_A15-134.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32_06JUL90_A15-134.pdf"
+},
+"24004": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-30/01-20-30_02JUL90_A15-131.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-30_02JUL90_A15-131.pdf"
+},
+"24049": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32/23-19-32_14JUN90_19-61.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32_14JUN90_19-61.pdf"
+},
+"24111": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_01MAY90_18-293.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_01MAY90_18-293.pdf"
+},
+"24133": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30/20-20-30_29MAR90_A15-100.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-30_29MAR90_A15-100.pdf"
+},
+"24142": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-28/23-20-28_NE_28MAR90_18-255.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-28_NE_28MAR90_18-255.pdf"
+},
+"24368": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_01DEC89_18-89.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_01DEC89_18-89.pdf"
+},
+"24383": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/26-20-31_15NOV89_18-78.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/27-20-31_15NOV89_18-78.pdf"
+},
+"24436": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_27SEP89_14-391.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_27SEP89_14-391.pdf"
+},
+"24446": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/07-19-33/07-19-33_12SEP89_14-383.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/07-19-33_12SEP89_14-383.pdf"
+},
+"24469": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_07SEP89_14-372.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_07SEP89_14-372.pdf"
+},
+"24553": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32/12-19-32_10JUL89_17-199.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32_10JUL89_17-199.pdf"
+},
+"24698": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_10APR89_17-47.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_10APR89_17-47.pdf"
+},
+"24704": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-33/02-20-33_07APR89_17-41.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-33_07APR89_17-41.pdf"
+},
+"24747": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_20MAR89_14-263.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_20MAR89_14-263.pdf"
+},
+"24831": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-20-30/9-20-30_5JAN89_16-217.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/9-20-30_5JAN89_16-217.pdf"
+},
+"24849": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-34/23-19-34_21DEC88_16-203.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-34_21DEC88_16-203.pdf"
+},
+"25028": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-31/21-20-30_10AUG88_14-165.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-30_10AUG88_14-165.pdf"
+},
+"25060": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27/19-19-27_NE_28JUL88_15-288_1.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27_NE_28JUL88_15-288_1.pdf"
+},
+"25081": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_14JUL88_14-153.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_14JUL88_14-153.pdf"
+},
+"25127": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/32-20-30/32-20-30_10JUN88_15-211.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/32-20-30_10JUN88_15-211.pdf"
+},
+"25263": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-20-33/14-20-33_29APR88_15-44.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-20-33_29APR88_15-44.pdf"
+},
+"25274": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-20-31/24-20-31_21APR88_14-119.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-20-31_21APR88_14-119.pdf"
+},
+"25334": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32/12-19-32_08MAR88_14-70.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32_08MAR88_14-70.pdf"
+},
+"25409": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-33/02-20-33_18JAN88_11-286.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-33_18JAN88_11-286.pdf"
+},
+"25434": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32/12-19-32_12JAN88_13-524.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32_12JAN88_13-524.pdf"
+},
+"25453": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-18-32/14-18-32_21DEC87_11-257.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-18-32_21DEC87_11-257.pdf"
+},
+"25458": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32/23-19-32_15EDC87_13-483.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32_15EDC87_13-483.pdf"
+},
+"25469": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_10DEC87_11-251.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_10DEC87_11-251.pdf"
+},
+"25482": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-21-31/23-21-31_04DEC87_13-451.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-21-31_04DEC87_13-451.pdf"
+},
+"25507": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_12NOV87_13-415.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_12NOV87_13-415.pdf"
+},
+"25538": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_16OCT87_13-3680001.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_16OCT87_13-3680001.pdf"
+},
+"25579": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32/12-19-32_18SEP87_13-095.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32_18SEP87_13-095.pdf"
+},
+"25628": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_28AUG87_13-250.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_28AUG87_13-250.pdf"
+},
+"25630": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_27AUG87_13-246.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_27AUG87_13-246.pdf"
+},
+"25714": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-20-30/31-20-30_10JUL87_13-131.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-21-30_10JUL87_13-131.pdf"
+},
+"25741": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-34/23-19-34_26JUN87_11-189.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-34_26JUN87_11-189.pdf"
+},
+"25848": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_8MAY87_13-13.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_8MAY87_13-13.pdf"
+},
+"25886": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_13APR87_11-141.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_13APR87_11-141.pdf"
+},
+"25945": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_18MAR87_12-288.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_18MAR87_12-288.pdf"
+},
+"26055": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32/12-19-32_06JAN87_12-191.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32_06JAN87_12-191.pdf"
+},
+"26057": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-31/05-19-31_06JAN87_11-58.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-31_06JAN87_11-58.pdf"
+},
+"26174": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_09OCT86_10-133.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_09OCT86_10-133.pdf"
+},
+"26187": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_03OCT86_12-13.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_03OCT86_12-13.pdf"
+},
+"26209": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/28-19-30/28-19-30_24SEP86_12-10.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/28-19-30_24SEP86_12-10.pdf"
+},
+"26226": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/06-19-30/6-19-30_16SEP86.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/6-19-30_16SEP86.pdf"
+},
+"26254": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_28AUG86_6-227.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_28AUG86_6-227.pdf"
+},
+"26256": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32/13-19-32_28AUG86_10-298.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32_28AUG86_10-298.pdf"
+},
+"26259": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32/23-19-32_28AUG86_6-284A.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32_28AUG86_6-284A.pdf"
+},
+"26260": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32/23-19-32_28AUG86_6-284B.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32_28AUG86_6-284B.pdf"
+},
+"26333": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-30/21-20-30_28JUL86_10-224.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-30_28JUL86_10-224.pdf"
+},
+"26395": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_25JUN86_16-158.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_25JUN86_16-158.pdf"
+},
+"26420": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_10JUN86_10-122.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_10JUN86_10-122.pdf"
+},
+"26423": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_09JUN86_10-121.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_09JUN86_10-121.pdf"
+},
+"26447": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-33/20-20-33_20MAY86_10-84.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-33_20MAY86_10-84.pdf"
+},
+"26461": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_15MAY86_6-239.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_15MAY86_6-239.pdf"
+},
+"26475": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-33/16-19-33_08MAY86_10-48.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/16-19-33_08MAY86_10-48.pdf"
+},
+"26548": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32/23-19-32_27MAR86_6-196.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32_27MAR86_6-196.pdf"
+},
+"26549": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32/23-19-32_27MAR86_6-197.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-32_27MAR86_6-197.pdf"
+},
+"26567": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_13MAR86_6-186.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_13MAR86_6-186.pdf"
+},
+"26622": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_07FEB86_9-263C.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_07FEB86_9-263C.pdf"
+},
+"26701": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-19-29/36-19-29_03DEC85_6-154.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/36-19-29_03DEC85_6-154.pdf"
+},
+"26706": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33/12-20-33_27NOV85_9-156.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33_27NOV85_9-156.pdf"
+},
+"26707": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32/12-19-32_26NOV85_9-153.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-32_26NOV85_9-153.pdf"
+},
+"26710": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_26NOV85_9-152.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_26NOV85_9-152.pdf"
+},
+"26778": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_04OCT85_6-145.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_04OCT85_6-145.pdf"
+},
+"26797": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-18-32/01-18-32_23SEP85_9-34.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-18-32_23SEP85_9-34.pdf"
+},
+"26809": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_18SEP85_6-141.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_18SEP85_6-141.pdf"
+},
+"26846": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_29AUG85_8-285.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_29AUG85_8-285.pdf"
+},
+"26935": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_01JUL85_6-111.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_01JUL85_6-111.pdf"
+},
+"27043": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-31/01-20-31_02MAY85_8-20.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-31_02MAY85_8-20.pdf"
+},
+"27098": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_28MAR85_7-284.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_28MAR85_7-284.pdf"
+},
+"27099": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_25MAR85_6-73.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_25MAR85_6-73.pdf"
+},
+"27296": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_10SEP_7-69.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_10SEP_7-69.pdf"
+},
+"27456": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_25APR84_18-961.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_25APR84_18-961.pdf"
+},
+"27459": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_20APR84_5-228.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_20APR84_5-228.pdf"
+},
+"27594": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_23DEC83_5-67.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_23DEC83_5-67.pdf"
+},
+"27595": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_23DEC83_5-68.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_23DEC83_5-68.pdf"
+},
+"27613": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32/13-19-32_08DEC83_5-31.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32_08DEC83_5-31.pdf"
+},
+"27672": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-32/22-19-32_21OCT83_3-289.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-32_21OCT83_3-289.pdf"
+},
+"27686": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_19OCT83_4-260.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_19OCT83_4-260.pdf"
+},
+"27755": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_19AUG83_3-225.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_19AUG83_3-225.pdf"
+},
+"27770": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_10AUG83_3-220.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_10AUG83_3-220.pdf"
+},
+"27806": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_12JUL83_3-195.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_12JUL83_3-195.pdf"
+},
+"27954": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_02FEB83_4-123.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_02FEB83_4-123.pdf"
+},
+"28040": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32/13-19-32_04NOV82_2-265.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-32_04NOV82_2-265.pdf"
+},
+"28073": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/WESTRIDGE_SUB_PH2_2-219.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/WESTRIDGE_SUB_PH2_2-219.pdf"
+},
+"28294": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_26MAR82_2-32.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_26MAR82_2-32.pdf"
+},
+"28381": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-20-30/03-20-30_20NOV81_4-6.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-20-30_20NOV81_4-6.pdf"
+},
+"28460": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32/05-17-32_14AUG81_Z-228.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32_14AUG81_Z-228.pdf"
+},
+"28508": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-29_1JUL81_Z-195.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-29_1JUL81_Z-195.pdf.pdf"
+},
+"28517": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_19JUN81_Z-146.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_19JUN81_Z-146.pdf"
+},
+"28532": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32/05-17-32_05JUN81_Z-186.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32_05JUN81_Z-186.pdf"
+},
+"28533": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32/05-17-32_05JUN81_Z-187.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32_05JUN81_Z-187.pdf"
+},
+"28559": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-33/13-20-33_11MAY81_Z-153.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-20-33_11MAY81_Z-153.pdf"
+},
+"28564": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-33/20-20-33_08MAY81_Z-150.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-33_08MAY81_Z-150.pdf"
+},
+"28587": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-32/21-19-32_22APR81_Z-133.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-19-32_22APR81_Z-133.pdf"
+},
+"28669": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-33/24-19-33_19FEB81_W-269.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-33_19FEB81_W-269.pdf"
+},
+"28671": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/06-20-33/06-20-33_18FEB81_Z-75.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/06-20-33_18FEB81_Z-75.pdf"
+},
+"28717": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_20DEC80_Z-40.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_20DEC80_Z-40.pdf"
+},
+"28731": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/04-20-30/04-20-30_09DEC80_W-246.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/04-20-30_09DEC80_W-246.pdf"
+},
+"28894": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-33/02-20-33_25JUL80_Y-231.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/02-20-33_25JUL80_Y-231.pdf"
+},
+"28936": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_27JUN80_Y-195.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_27JUN80_Y-195.pdf"
+},
+"29146": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-20-31/24-20-31_16JAN80_W-141.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-20-31_16JAN80_W-141.pdf"
+},
+"29270": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_11OCT79_X-181.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_11OCT79_X-181.pdf"
+},
+"29279": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/03-20-30_05OCT79_X-176.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/03-20-30_05OCT79_X-176\t.pdf"
+},
+"29392": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_26JUL79_W-80.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_26JUL79_W-80.pdf"
+},
+"29422": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_28JUN79_X-68.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_28JUN79_X-68.pdf"
+},
+"29451": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32/14-19-32_04JUN79_X-49.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-32_04JUN79_X-49.pdf"
+},
+"29452": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-29/21-20-29_4JUN79_X-51.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-29_4JUN79_X-51.pdf"
+},
+"29481": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32/05-17-32_04MAY79_W-38.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32_04MAY79_W-38.pdf"
+},
+"29506": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32/05-17-32_17APR79_X-5.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32_17APR79_X-5.pdf"
+},
+"29524": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-33/01-20-33_29MAR79_V-305.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-33_29MAR79_V-305.pdf"
+},
+"29551": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-20-33/8-20-33_01MAR79_V-281.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/8-20-33_01MAR79_V-281.pdf"
+},
+"29569": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_20FEB79_V-270.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_20FEB79_V-270.pdf"
+},
+"29586": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_01FEB79_W-25.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_01FEB79_W-25.pdf"
+},
+"29600": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32/05-17-32_19JAN79_V-243.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32_19JAN79_V-243.pdf"
+},
+"29601": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32/05-17-32_19JAN79_V-244.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32_19JAN79_V-244.pdf"
+},
+"29602": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32/05-17-32_19JAN79_V-245.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32_19JAN79_V-245.pdf"
+},
+"29621": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_27DEC78_V-227.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_27DEC78_V-227.pdf"
+},
+"29625": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_22DEC78_V-226.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_22DEC78_V-226.pdf"
+},
+"29691": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_16OCT78_S-344.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_16OCT78_S-344.pdf"
+},
+"29730": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_22SEP78_L-148.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_22SEP78_L-148.pdf"
+},
+"29858": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_10JUL78_V-59.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_10JUL78_V-59.pdf"
+},
+"29913": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_09JUN78_V-25.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_09JUN78_V-25.pdf"
+},
+"29918": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-29/21-20-29_8JUN78_A.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-29_8JUN78_A.pdf"
+},
+"29931": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_26MAY78_S-303.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_26MAY78_S-303.pdf"
+},
+"29936": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_25MAY78_V-14.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_25MAY78_V-14.pdf"
+},
+"29968": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-31/22-21-31_15MAY78_U-294A.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-31_15MAY78_U-294A.pdf"
+},
+"29971": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-33/20-20-33_12MAY78_U-290.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-33_12MAY78_U-290.pdf"
+},
+"30093": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_23FEB78_S-272.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_23FEB78_S-272.pdf"
+},
+"30280": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-21-28/31-21-28_SE_19OCT77_6-159.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-21-28_SE_19OCT77_6-159.pdf"
+},
+"30287": {
+"url": "https://gis.bentoncountyar.gov/plats/SILOAM_SPRINGS/CARLS_ADDN_U-132.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/CARLS_ADDN_U-132.pdf"
+},
+"30395": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-19-33/22-19-33_15AUG77_S-210.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-33_15AUG77_S-210.pdf"
+},
+"30619": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_23MAR77_T-281.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_23MAR77_T-281.pdf"
+},
+"30666": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_23FEB77_S-145.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_23FEB77_S-145.pdf"
+},
+"30708": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_28JAN77_S-136.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_28JAN77_S-136.pdf"
+},
+"30769": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_23NOV76_S-118.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_23NOV76_S-118.pdf"
+},
+"30851": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_21SEP76_T-108.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_21SEP76_T-108.pdf"
+},
+"30912": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-30/23-20-30_06AUG76_S-84.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-20-30_06AUG76_S-84.pdf"
+},
+"31002": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_11JUN76_R-325.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_11JUN76_R-325.pdf"
+},
+"31030": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_14MAY76_R-302B.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_14MAY76_R-302B.pdf"
+},
+"31066": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_16APR76_R-275.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_16APR76_R-275.pdf"
+},
+"31109": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-20-30/24-20-30_03MAR76_S-40.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-20-30_03MAR76_S-40.pdf"
+},
+"31330": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_21JUL75_R-70.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_21JUL75_R-70.pdf"
+},
+"31338": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_09JUL75_R-66.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_09JUL75_R-66.pdf"
+},
+"31361": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_11JUN75_R-35.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_11JUN75_R-35.pdf"
+},
+"31417": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_23APR75_Q-344.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_23APR75_Q-344.pdf"
+},
+"31484": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_11FEB75_Q-305.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_11FEB75_Q-305.pdf"
+},
+"31524": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_20DEC74_Q-279.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_20DEC74_Q-279.pdf"
+},
+"31526": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32/05-17-32_06DEC74_O-303.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/05-17-32_06DEC74_O-303.pdf"
+},
+"31551": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-30/22-21-30_14NOV74_O-299.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-21-30_14NOV74_O-299.pdf"
+},
+"31556": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-28/33-21-28_NW_12NOV74_Q-260.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-28_NW_12NOV74_Q-260.pdf"
+},
+"31560": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30/11-19-30_05NOV74_O-296.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30_05NOV74_O-296.pdf"
+},
+"31589": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_24SEP74_Q-223.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_24SEP74_Q-223.pdf"
+},
+"31693": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_08JUL74_Q-175.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_08JUL74_Q-175.pdf"
+},
+"31732": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/06-17-32/06-17-32_14JUN74_O-244.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/06-17-32_14JUN74_O-244.pdf"
+},
+"31772": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-33/20-20-33_03MAY74_O-231.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/20-20-33_03MAY74_O-231.pdf"
+},
+"31839": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_28MAR74_Q-75.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_28MAR74_Q-75.pdf"
+},
+"31878": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-21-31/23-21-31_14FEB74_O-210.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-21-31_14FEB74_O-210.pdf"
+},
+"31888": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_23JAN74_Q-270001.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_23JAN74_Q-270001.pdf"
+},
+"31907": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-31/21-20-31_28DEC73_D-111.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-31_28DEC73_D-111.pdf"
+},
+"32053": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_10AUG73_P-287.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_10AUG73_P-287.pdf"
+},
+"32167": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_21MAY73_O-136.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_21MAY73_O-136.pdf"
+},
+"32191": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_08MAY73_P-100.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_08MAY73_P-100.pdf"
+},
+"32194": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_08MAY73_O-127.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_08MAY73_O-127.pdf"
+},
+"32238": {
+"url": "https://gis.bentoncountyar.gov/plats/Not_Found_Not_Indexable/25-20-31_11APR73_P-74.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/25-20-31_11APR73_P-74.pdf"
+},
+"32314": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30/17-19-30_06FEB73_O-92.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-30_06FEB73_O-92.pdf"
+},
+"32618": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-18-32/13-18-32_26MAY72_H-213.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-18-32_26MAY72_H-213.pdf"
+},
+"32670": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_24APR72_7-162.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_24APR72_7-162.pdf"
+},
+"32671": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30/22-19-30_24APR72_F-1630001.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/22-19-30_24APR72_F-1630001.pdf"
+},
+"32695": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_11APR72_N-135.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_11APR72_N-135.pdf"
+},
+"32699": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_10APR72_N-128.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_10APR72_N-128.pdf"
+},
+"32746": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-20-31/24-20-31_14FEB72_N-82.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-20-31_14FEB72_N-82.pdf"
+},
+"32765": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/18-20-31/18-20-31_31JAN72_K-174.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/18-20-31_31JAN72_K-174.pdf"
+},
+"32766": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/18-20-31/18-20-31_31JAN72_K-174B.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/18-20-31_31JAN72_K-174B.pdf"
+},
+"32800": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_07JAN72_N-36-1.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_07JAN72_N-36-1.pdf"
+},
+"32804": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_29DEC71_N-29A.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_29DEC71_N-29A.pdf"
+},
+"32852": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/18-20-31/18-20-31_29OCT71_K-145.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/18-20-31_29OCT71_K-145.pdf"
+},
+"32897": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-20-31/24-20-31_28SEP71_M-166.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-20-31_28SEP71_M-166.pdf"
+},
+"32943": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_11AUG71_M-127.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_11AUG71_M-127.pdf"
+},
+"32944": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_11AUG71_Y-128.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_11AUG71_Y-128.pdf"
+},
+"32998": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_29JUN71_M-58.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_29JUN71_M-58.pdf"
+},
+"32999": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_29JUN71_M-59.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_29JUN71_M-59.pdf"
+},
+"33000": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_29JUN71_M-61.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_29JUN71_M-61.pdf"
+},
+"33001": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_29JUN71_M-61A.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_29JUN71_M-61A.pdf"
+},
+"33003": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_29JUN71_M-81.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_29JUN71_M-81.pdf"
+},
+"33004": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_29JUN71_M-85.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_29JUN71_M-85.pdf"
+},
+"33005": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_29JUN71_M-87.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_29JUN71_M-87.pdf"
+},
+"33006": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_29JUN71_M-88.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_29JUN71_M-88.pdf"
+},
+"33034": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_24JUN71_M-48.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_24JUN71_M-48.pdf"
+},
+"33035": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_24JUN71_M-48B.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_24JUN71_M-48B.pdf"
+},
+"33036": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_24JUN71_M-49A.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_24JUN71_M-49A.pdf"
+},
+"33037": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_24JUN71_M-49B.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_24JUN71_M-49B.pdf"
+},
+"33038": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_24JUN71_M-49.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_24JUN71_M-49.pdf"
+},
+"33171": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/HUFFMAN_FIRST_F-118.pdf",
+"basis": "PUNCT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/HUFFMAN_FIRST_F_118.pdf"
+},
+"33200": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_17NOV70_L-139.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_17NOV70_L-139.pdf"
+},
+"33213": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_30OCT70_L-129.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_30OCT70_L-129.pdf"
+},
+"33288": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_27JUL70_L-50.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_27JUL70_L-50.pdf"
+},
+"33299": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_10JUL70_C-33.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_10JUL70_C-33.pdf"
+},
+"33300": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_10JUL70_L-33.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_10JUL70_L-33.pdf"
+},
+"33440": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_21NOV69_J-110.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_21NOV69_J-110.pdf"
+},
+"33571": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29/14-19-29_29MAY69_J-3.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-19-29_29MAY69_J-3.pdf"
+},
+"33670": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-18-29_NW_27SEP68_H-26.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-18-29_27SEP68_H-26.pdf"
+},
+"33673": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-28_SW_23SEP68_H-20.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-28_23SEP68_H-20.pdf"
+},
+"33696": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/11-18-29_SW_13AUG68_H-10.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/11-18-29_13AUG68_H-10.pdf"
+},
+"33719": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_27JUN68_H-191.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_27JUN68_H-191.pdf"
+},
+"33965": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33/12-20-33_30AUG66_H-35.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33_30AUG66_H-35.pdf"
+},
+"33985": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/9-19-28_SW_22JUN66_H-13.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/09-19-28_22JUN66_H-13.pdf"
+},
+"34157": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_14APR65_G-18.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_14APR65_G-18.pdf"
+},
+"34170": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_09MAR65_G-2.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_09MAR65_G-2.pdf"
+},
+"34171": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_09MAR65_G-8.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_09MAR65_G-8.pdf"
+},
+"34194": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_11JAN65_F-153.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_11JAN65_F-153.pdf"
+},
+"34213": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_26OCT64_F-138.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_26OCT64_F-138.pdf"
+},
+"34248": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_04AUG64_F-117.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_04AUG64_F-117.pdf"
+},
+"34274": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_04JUN64_E-64.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_04JUN64_E-64.pdf"
+},
+"34308": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/16-18-30_SE_25FEB64_F-70.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/16-18-30_SE_25FEB64_F-70.pdf"
+},
+"34358": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-33/24-19-33_07OCT63_F-35.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-33_07OCT63_F-35.pdf"
+},
+"34489": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/BLUEBERRY_HILL_NO1_28FEB62_E-20.pdf",
+"basis": "PUNCT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/BLUEBERRY_HILL_NO.1_28FEB62_E-20.pdf"
+},
+"34532": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30/13-19-30_27MAR61_.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_27MAR61_.pdf"
+},
+"34557": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_23JUN59_SMITHHAYES.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_23JUN59_SMITHHAYES.pdf"
+},
+"34725": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-18-33/17-18-33_NE_NO-DATE_15087.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-18-33_NE_NO-DATE_15087.pdf"
+},
+"34726": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/18-18-33/18-18-33_NE_NO-DATE_15101.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/18-18-33_NE_NO-DATE_15101.pdf"
+},
+"34730": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-18-33/8-18-33_SE_NO-DATE_15086.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/8-18-33_SE_NO-DATE_15086.pdf"
+},
+"34731": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-18-33/17-18-33_SW_NO-DATE_15082.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-18-33_SW_NO-DATE_15082.pdf"
+},
+"34732": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-18-33/17-18-33_SW_NO-DATE_15083.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-18-33_SW_NO-DATE_15083.pdf"
+},
+"34743": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-20-33/14-20-33_NODATE_WILMOTH.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-20-33_NODATE_WILMOTH.pdf"
+},
+"34760": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/14-21-30/14-21-30_NODATE_CREEKMORE.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/14-21-30_NODATE_CREEKMORE.pdf"
+},
+"34764": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-32/17-19-32_NODATE_HUBBARD.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-32_NODATE_HUBBARD.pdf"
+},
+"34767": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30/12-19-30_NODATE_PICKENS.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-19-30_NODATE_PICKENS.pdf"
+},
+"34816": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/06-17-32/06-17-32_NODATE_HOWERTON.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/06-17-32_NODATE_HOWERTON.pdf"
+},
+"34922": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/06-18-27/6-18-27_2003-844.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/6-18-27_2003-844.pdf"
+},
+"34936": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-18-31/12-18-31_NODATE_CREEKSPUBLICLINKS.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-18-31_NODATE_CREEKSPUBLICLINKS.pdf"
+},
+"34947": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33/12-20-33_NODATE_18-62.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/12-20-33_NODATE_18-62.pdf"
+},
+"34950": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-31/36-20-31_NODATE_1-933.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/36-20-31_NODATE_1-933.pdf"
+},
+"34952": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/02-19-31/02-19-31_NODATE_COX.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/02-19-31_NODATE_COX.pdf"
+},
+"34966": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/16-18-32/16-18-32_22L-56.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/16-18-32_22L-56.pdf"
+},
+"34988": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_NODATE_16-219.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_NODATE_16-219.pdf"
+},
+"34989": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34/01-17-34_NODATE_E-139.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-17-34_NODATE_E-139.pdf"
+},
+"34990": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/11-18-31/11-18-31_NODATE_CREEKSPUBLICLINKS.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/11-18-31_NODATE_CREEKSPUBLICLINKS.pdf"
+},
+"34997": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-18-30/BENTON_CO_9-18-30_BK483-PG173.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/BENTON_CO_9-18-30_BK483-PG173.pdf"
+},
+"35004": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-33/01-20-33_NODATE_C-54.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/01-20-33_NODATE_C-54.pdf"
+},
+"35010": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-18-33/17-18-33_SW_NO-DATE_15082.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/9-18-33_SW_NO-DATE_15082.pdf"
+},
+"35058": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-21-30/13_21_30_NE.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/13_21_30_NE.pdf"
+},
+"35070": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30/11-19-30_NODATE.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/11-19-30_NODATE.pdf"
+},
+"35071": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27/19-19-27_NE_NODATE.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27_NE_NODATE.pdf"
+},
+"35072": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27/19-19-27_NE_NODATE_2.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27_NE_NODATE_2.pdf"
+},
+"35073": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27/19-19-27_NW_NODATE.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27_NW_NODATE.pdf"
+},
+"35074": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27/19-19-27_SW_NODATE_1.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27_SW_NODATE_1.pdf"
+},
+"35075": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27/19-19-27_SW_NODATE_2.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27_SW_NODATE_2.pdf"
+},
+"35076": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27/19-19-27_SW_NODATE_3.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27_SW_NODATE_3.pdf"
+},
+"35077": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-28/24-19-28_NODATE.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/24-19-28_NODATE.pdf"
+},
+"35078": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27/31-19-27_NE_NODATE.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27_NE_NODATE.pdf"
+},
+"35079": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27/31-19-27_NW_NODATE.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27_NW_NODATE.pdf"
+},
+"35080": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27/31-19-27_NW_NODATE_1.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27_NW_NODATE_1.pdf"
+},
+"35081": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27/31-19-27_SE_NODATE.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27_SE_NODATE.pdf"
+},
+"35083": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27/31-19-27_SW_NODATE_1.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/31-19-27_SW_NODATE_1.pdf"
+},
+"35086": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27/19-19-27_NW_NODATE_1.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27_NW_NODATE_1.pdf"
+},
+"35087": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27/19-19-27_SW_NODATE.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/19-19-27_SW_NODATE.pdf"
+},
+"35093": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-30/21-20-30_NW_NODATE.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-30_NW_NODATE.pdf"
+},
+"35156": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/35-20-33/35-20-33_NODATE_LINDSAYFAMILYTRUST.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/35-20-33_NODATE_LINDSAYFAMILYTRUST.pdf"
+},
+"35160": {
+"url": "https://gis.bentoncountyar.gov/plats/BELLA_VISTA/BELLA_VISTA_ORIGINAL_W-1.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURBAN/BELLA_VISTA_ORIGINAL_W-1.pdf"
+},
+"35171": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-29/23-19-29_NODATE_19-251.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/23-19-29_NODATE_19-251.pdf"
+},
+"35173": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/34-20-31/34-20-31_MCKISSIC_CREEK_ESTATES.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/34-20-31_MCKISSIC_CREEK_ESTATES.pdf"
+},
+"35174": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-30/5-19-30_NODATE.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-19-30_NODATE.pdf"
+},
+"35175": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-30/5-19-30_NODATE_2.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-19-30_NODATE_2.pdf"
+},
+"35176": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-30/5-19-30_NODATE_14-395.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-19-30_NODATE_14-395.pdf"
+},
+"35177": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-30/5-19-30_NODATE_3.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/5-19-30_NODATE_3.pdf"
+},
+"35188": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/08-17-33/8-17-33_NW_01JUL98_I-407.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/RURAL/8-17-33_NW_01JUL98_I-407.pdf"
+},
+"35205": {
+"url": "https://gis.bentoncountyar.gov/plats/HIGHFILL/08-18-31_L202659799.pdf",
+"basis": "EXACT",
+"was": "HIGHFILL/08-18-31_L202659799.PDF"
+},
+"35252": {
+"url": "https://gis.bentoncountyar.gov/plats/SULPHUR_SPRINGS/SULPHUR_ORG_W_A_RULES_L202633115.pdf",
+"basis": "EXACT",
+"was": "SULPHUR_SPRINGS/SULPHUR_ORG_W_A_RULES_L202633115.PDF"
+},
+"35284": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/WHISPERING_TIMBERS_PH_2_L202606923.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/WHISPERING_TIMBERS_PH_2"
+},
+"35309": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/TIMBER_TRAILS_SUB_L202559780.pdf",
+"basis": "EXACT",
+"was": "TIMBER_TRAILS_SUB_L202559780.PDF"
+},
+"35738": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/LEXINGTON_SUB_L202160328.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/EXINGTON_SUB_L202160328.pdf"
+},
+"35743": {
+"url": "https://gis.bentoncountyar.gov/plats/BELLA_VISTA/NORTHAMPTION_SUB_L202154857.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/BELLA_VISTA/NORTHAMPTON_SUB_L202154857.pdf"
+},
+"36230": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/25-20-29_SE_24APR11_2011-223.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/GRAVETTE/25-20-29_SE_24APR11_2011-223.pdf"
+},
+"36241": {
+"url": "https://gis.bentoncountyar.gov/plats/PEA_RIDGE/MEDLIN_SUB_2009-255.TIF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/PEA_RIDGE/MEDLIN_SUB_2009-255.pdf"
+},
+"36357": {
+"url": "https://gis.bentoncountyar.gov/plats/gentry-highfill-little_flock/BEVER_SUB_2006-1495_GENTRY.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/GENTRY/BEVER_SUB_2006-1495_GENTRY.pdf"
+},
+"36408": {
+"url": "https://gis.bentoncountyar.gov/plats/gentry-highfill-little_flock/BEVER_SUB_2006-1116_GENTRY.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/GENTRY/BEVER_SUB_2006-1116_GENTRY.pdf"
+},
+"36792": {
+"url": "https://gis.bentoncountyar.gov/plats/ELM_SPRINGS/OAK_ALLEY_ESTATES_2003-106.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/DECATUR/OAK_ALLEY_ESTATES_2003-106.pdf"
+},
+"37055": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/PINNACLE_POINTE_PH2_P2-205.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/PINNACLE_POINET_PH2_P2-205.pdf"
+},
+"37641": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/KEMPS_1ST_ADDN_17-260.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/KEMPS_ADDN1_17-260.pdf"
+},
+"39176": {
+"url": "https://gis.bentoncountyar.gov/plats/SILOAM_SPRINGS/STATE%20FILED%20DOCUMENT%20%23516185.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/SILOAM_SPRINGS/STATE FILED DOCUMENT #516185.pdf"
+},
+"39722": {
+"url": "https://gis.bentoncountyar.gov/plats/BELLA_VISTA/BellaVista_GolfCourse_21DEC71970_BL-P159.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/BELLA_VISTA/BellaVista_GolfCourse_21DEC1970_BL-P159.pdf"
+},
+"39800": {
+"url": "https://gis.bentoncountyar.gov/plats/CORPS/A1919N28W0.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/CORPS/A1919N28W0.pdf"
+},
+"39895": {
+"url": "https://gis.bentoncountyar.gov/plats/GENTRY/16-18-33_L202552009.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncounty/GENTRY/16-18-33_L202552009.PDF"
+},
+"39905": {
+"url": "https://gis.bentoncountyar.gov/plats/GENTRY/17-18-33_L202655141.pdf",
+"basis": "EXACT",
+"was": "GENTRY/17-18-33_L202655141.PDF"
+},
+"39908": {
+"url": "https://gis.bentoncountyar.gov/plats/GARFIELD/29-21-28_L202651594.pdf",
+"basis": "EXACT",
+"was": "file:///J:/Scans/Plats/GARFIELD/29-21-28_L202651594.PDF"
+},
+"39913": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/10-19-30_L202649339.pdf",
+"basis": "EXACT",
+"was": "\\\\gisdata\\Public\\Scans\\Annexations\\Gravette\\05-21-2025.pdfROGERS/10-19-30_L202649339.PDF"
+},
+"39917": {
+"url": "https://gis.bentoncountyar.gov/plats/GRAVETTE/12-20-32_L202645365.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/https://gis.bentoncountyar.gov/plats/GRAVETTE/12-20-32_L202645365.PDF"
+},
+"39920": {
+"url": "https://gis.bentoncountyar.gov/plats/SPRINGDALE/20-18-39_L202643884.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/SPRINGDALE/20-18-39_L202643884"
+},
+"39925": {
+"url": "https://gis.bentoncountyar.gov/plats/PEA_RIDGE/36-21-30_L202640243.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/platsPEA_RIDGE/36-21-30_L202640243.PDF"
+},
+"39996": {
+"url": "https://gis.bentoncountyar.gov/plats/HIGHFILL/05-18-31_L202562091.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/\n\nHIGHFILL/05-18-31_L202562091.PDF"
+},
+"40014": {
+"url": "https://gis.bentoncountyar.gov/plats/DECATUR/11-19-33_L202551054.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/DECATUR/file:///J:/Scans/Plats/DECATUR/11-19-33_L202551054.PDF"
+},
+"40245": {
+"url": "https://gis.bentoncountyar.gov/plats/HIGHFILL/02-18-32_L202348628.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/HIGHFILL/02-18-32_L202348628.pdf.pdf"
+},
+"40953": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/B.F._SIKES_ADD_L201805697.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/B.F._SPIKES_ADD_L201805697.pdf"
+},
+"41217": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/10-18-30_05JUN15_2015319.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/LOWELL/10-18-30_05JUN15_2015319.pdf"
+},
+"41464": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/33-21-32/33-21-32_NW_9SEP2010_379.PDF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/33-21-32_NW_9SEP2010_379.pdf"
+},
+"41499": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/FAIRVIEW_HEIGHTS_2008-417.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/FAIRVIEW_HEIGHTS_2008-417.pdf"
+},
+"41501": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/3-19-30_17JUL08_2008-407.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/DECATUR/3-19-30_17JUL08_2008-407.pdf"
+},
+"41510": {
+"url": "https://gis.bentoncountyar.gov/plats/All_New_Plats/pdf_backup/CAMPBELLS_COUNTRYWOOD_EST_2008-204.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/CAMPBELLS_COUNTRYWOOD_EST_2008-204.pdf"
+},
+"41540": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/BENTON_CO._DRAWING_%23_05-667B.PDF",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/BENTON_CO._DRAWING_#_05-667B.pdf"
+},
+"41541": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/25-19-30_NW_6JUN07_2007-513.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/25-19-30_NW_6JUN07_2007-513.pdf"
+},
+"41946": {
+"url": "https://gis.bentoncountyar.gov/plats/BELLA_VISTA/REIGHTON_SUB_L202621329.pdf",
+"basis": "EXACT",
+"was": "BELLA_VISTA/REIGHTON_SUB_L202621329.PDF"
+},
+"42091": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/LEGENDARY_SUB_PH_2_L202432038.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/SPRINGDALE/LEGENDARY_SUB_PH_2_L202432038.pdf"
+},
+"42754": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/MCGAUGHEYS_ORCHARD_%20ADD_19SEPT17_2017-815.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/EYS_ORCHARD_ ADD_19SEPT17_2017-815.pdf"
+},
+"42893": {
+"url": "https://gis.bentoncountyar.gov/plats/RURBAN/MOUNTAIN_SPRINGS_ESTATES_NO_3_03MAY16_2016316.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/BELLA_VISTA/MOUNTAIN_SPRINGS_ESTATES_NO_3_03MAY16_2016316.pdf"
+},
+"42911": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/HEATHROW_SUB_12FEB16_2016121.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/PEA_RIDGE/HEATHROW_SUB_12FEB16_2016121.pdf"
+},
+"42938": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/DUCKWORTHS_ADD_22SEP15_2015555.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/LOWELL/DUCKWORTHS_ADD_22SEP15_2015555.pdf"
+},
+"43050": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/25-21-30_28MAR14_2014-149.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/PEA_RIDGE/25-21-30_28MAR14_2014-149.pdf"
+},
+"43125": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/SILO_FALLS_ADD_PH1_14MAR13_2013-133.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/SILO_FALLS_ADD_PH1_14MAR13_2013-133.pdf"
+},
+"43163": {
+"url": "https://gis.bentoncountyar.gov/plats/LOWELL/13-20-33_27NOV12_2012-462.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/GRAVETTE/13-20-33_27NOV12_2012-462.pdf"
+},
+"43341": {
+"url": "https://gis.bentoncountyar.gov/plats/BENTONVILLE/PINNACLE_SUB_PHASE_4_2011-201.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/PINNACLE_SUB_PHASE_4_2011-201.pdf"
+},
+"43351": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/09-19-32_SE_15APR11_2011-171.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/LITTLE_FLOCK/09-19-32_SE_15APR11_2011-171.pdf"
+},
+"43470": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/33-18-33/33-18-33_22DEC08_2008-663.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/SILOAM_SPRINGS/33-18-33_22DEC08_2008-663.pdf"
+},
+"43780": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/PROFESSIONAL_PARK_2003-1061.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/PROFFESSIONAL_PARK_2003-1061.pdf"
+},
+"43854": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/9-19-30_E_28FEB03_2003-142.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/9-19-30_E_28FEB03_2003-142.pdf"
+},
+"44000": {
+"url": "https://gis.bentoncountyar.gov/plats/CAVE_SPRINGS/JOHNSONS_ADDN_P3-487.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/GENTRY/JOHNSONS_ADDN_P3-487.pdf"
+},
+"44114": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/26-20-28_NE_27OCT98_P1-711.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/26-20-28_NE_27OCT98_P1-711.pdf"
+},
+"44166": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/15-18-30_NW_07MAR98_23L-189.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/15-18-30_NW_07MAR98_23L-189.pdf"
+},
+"44171": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/ROLLING_OAKS_SUB_UNIT3_34-168.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/DECATUR/ROLLING_OAKS_SUB_UNIT3_34-168.pdf"
+},
+"44545": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/WHISPERING_MEADOWS_BLK1_26-134.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/WHISPERING_TIMBERS_BLK1_26-134.pdf"
+},
+"44681": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/WHISPERING_MEADOWS_BLK1_24-178.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/WHISPERING_TIMBERS_BLK1_24-178.pdf"
+},
+"44706": {
+"url": "https://gis.bentoncountyar.gov/plats/All_New_Plats/tiff_backup/23-19-30_25MAR93_24-930001.tif",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/23-19-30_25MAR93_24-930001.pdf"
+},
+"45179": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/WHISPERING_TIMBERS_PH5_A15-49.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/WHISPERING_TIMBERS_PH10_A15-49.pdf"
+},
+"45691": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/30-19-29_8OCT86_11-19.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/30-19-29_8OCT86_11-19.pdf"
+},
+"45792": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/LARIMORE_%26_GARNER_1SUB_6-206.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/LARRIMORE_&_GARNER_1SUB_6-206.pdf"
+},
+"45855": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/35-19-29_25OCT85_6-153.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/35-19-29_25OCT85_6-153.pdf"
+},
+"46014": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/25-21-30_17OCT84_7-102.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/25-21-30_17OCT84_7-102.pdf"
+},
+"46019": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_27SEP84_7-860001.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/13-19-30_27SEP84_7-860001.pdf"
+},
+"46035": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/01-19-31_16JUL84_6-10A.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/01-19-31_16JUL84_6-10A.pdf"
+},
+"46094": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/WHISPERING_TIMBERS_PH3_5-78.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/WHISPERING_TIMBERS_PH4_5-78.pdf"
+},
+"46103": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/WHISPERING_TIMBERS_PH2_5-11.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/WHISPERING_TIMBERS_BLK1_5-11.pdf"
+},
+"46272": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/25-20-30_17AUG82_2-166.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/25-20-30_17AUG82_2-166.pdf"
+},
+"46352": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/17-19-28_SE_24FEB81_3-81.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/GATEWAY/17-19-28_SE_24FEB81_3-81.pdf"
+},
+"46653": {
+"url": "https://gis.bentoncountyar.gov/plats/All_New_Plats/pdf_backup/13-19-30_3NOV77_I-450001.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/13-19-30_3NOV77_I-450001.pdf"
+},
+"46679": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/05-19-31_22JUL77_U-104.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/DECATUR/05-19-31_22JUL77_U-104.pdf"
+},
+"46873": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/21-20-30_03DEC74_Q-272.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/21-20-30_03DEC74_Q-272.pdf"
+},
+"46909": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/13-19-30_28FEB74_Q-410001.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/13-19-30_28FEB74_Q-410001.pdf"
+},
+"47087": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/2-19-30_NW_15AUG68_H-16.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/02-19-30_15AUG68_H-16.pdf"
+},
+"47091": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/9-18-30_NE_19JUN68_I-109.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/DECATUR/9-18-30_NE_19JUN68_I-109.pdf"
+},
+"47106": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/5-17-33_SE_22MAY67_G-200.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/SILOAM_SPRINGS/5-17-33_SE_22MAY67_G-200.pdf"
+},
+"47123": {
+"url": "https://gis.bentoncountyar.gov/plats/ROGERS/NEW_HOPE_ACRES2_H-29.pdf",
+"basis": "INSTR",
+"was": "https://gis.bentoncountyar.gov/plats/ROGERS/NEW_HOPE_ACRES_23AUG66_H-29.pdf"
+},
+"47207": {
+"url": "https://gis.bentoncountyar.gov/plats/AVOCA/21-20-29_12FEB62_E-18.pdf.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/AVOCA/21-20-29_12FEB62_E-18.pdf"
+},
+"47276": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/10-19-32_NODATE_CUTCHER.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/GARFIELD/10-19-32_NODATE_CUTCHER.pdf"
+},
+"47277": {
+"url": "https://gis.bentoncountyar.gov/plats/RURAL/19-18-31_NODATE_DANE-PARKER.pdf",
+"basis": "EXACT",
+"was": "https://gis.bentoncountyar.gov/plats/DECATUR/19-18-31_NODATE_DANE-PARKER.pdf"
+}
+}

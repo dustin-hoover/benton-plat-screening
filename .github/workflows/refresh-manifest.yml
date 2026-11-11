@@ -1,0 +1,28 @@
+name: Refresh manifests
+# Weekly: re-crawl the county plat server, pull the live Plat Scans index, repair 404 URLs, and add any new unindexed
+# files to extra.csv (existing rows keep their seq/chunk). The nightly screening run then picks up whatever changed.
+on:
+  schedule:
+    - cron: '41 17 * * 6'   # Saturdays 11:41 am Central (CST)
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: {group: screening, cancel-in-progress: false}
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+      - name: Crawl, index, repair, build extra manifest
+        run: |
+          python3 crawl.py server_index.json.gz
+          python3 index.py plat_index.json.gz
+          python3 fix_urls.py server_index.json.gz
+          python3 build_extra.py server_index.json.gz
+      - name: Commit
+        run: |
+          git config user.name "github-actions" && git config user.email "actions@github.com"
+          git add server_index.json.gz plat_index.json.gz url_fix.json url_unresolved.json extra.csv extra_duplicates.json.gz
+          git commit -m "Refresh manifests (crawl $(date -u +%F))" || { echo nothing changed; exit 0; }
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done; exit 1
