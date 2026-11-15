@@ -1430,10 +1430,10 @@
   "low_or_no_text_count": 1827
  },
  "extra": {
-  "total": 12659,
-  "screened": 12658,
+  "total": 13486,
+  "screened": 13485,
   "unscreened": 1,
-  "complete": 12608,
+  "complete": 13435,
   "incomplete": {
    "pages_degraded_after_retry:1": 40,
    "download_failed": 7,
@@ -1872,6 +1872,6 @@
     ]
    }
   ],
-  "low_or_no_text_count": 172
+  "low_or_no_text_count": 196
  }
 }

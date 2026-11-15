@@ -73,19 +73,19 @@
   ]
  },
  "extra": {
-  "total": 12659,
-  "screened": 12658,
+  "total": 13486,
+  "screened": 13485,
   "status": {
-   "OK": 12637,
+   "OK": 13463,
    "DOWNLOAD_FAILED": 7,
-   "NO_TEXT": 14
+   "NO_TEXT": 15
   },
-  "shows_easements": 9659,
-  "shows_utility_easement": 796,
+  "shows_easements": 10352,
+  "shows_utility_easement": 880,
   "by_type_with_ue": [
    [
     "UNINDEXED",
-    443
+    523
    ],
    [
     "STATE FILED PLAT",
@@ -101,7 +101,7 @@
    ],
    [
     "LOT SPLIT",
-    2
+    3
    ],
    [
     "FINAL PLAT",
@@ -116,7 +116,19 @@
     1
    ],
    [
+    "TRACT SPLIT SURVEY",
+    1
+   ],
+   [
+    "LOT LINE ADJUSTMENT",
+    1
+   ],
+   [
     "TRACT LINE AJUSTMENT",
+    1
+   ],
+   [
+    "RIGHT OF WAY DEDICATION PLAT",
     1
    ],
    [
@@ -129,18 +141,6 @@
    ],
    [
     "CORRECTION SURVEY",
-    1
-   ],
-   [
-    "PRELIMINARY",
-    1
-   ],
-   [
-    "TRACT SPLIT/LINE ADJUSTMENT",
-    1
-   ],
-   [
-    "LOT CONSOLIDATION PLAT",
     1
    ]
   ]
