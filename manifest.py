@@ -48,7 +48,10 @@ def incomplete_reason(r, fix=None):
     if (r.get('v') or 0) >= 3:
         if r.get('complete'):
             return None
-        bad = [s for s in r.get('page_status', []) if s != 'ok']
+        ps = r.get('page_status', [])
+        if 'not_reached' in ps:
+            return f'pages_not_reached:{ps.count("not_reached")}'   # long file stopped at the time limit; resumed next run
+        bad = [s for s in ps if s not in ('ok', 'retried')]
         return f'pages_degraded_after_retry:{len(bad)}' if bad else 'incomplete_v3'
     # legacy records
     dpi = r.get('dpi') or []
@@ -71,6 +74,6 @@ def should_rescreen(r, fix=None):
     why = incomplete_reason(r, fix)
     if why is None:
         return False
-    if why.startswith('legacy_') or why == 'download_failed_repairable':
+    if why.startswith('legacy_') or why.startswith('pages_not_reached') or why == 'download_failed_repairable':
         return True
     return why in ('download_failed', 'unreadable') and (r.get('v') or 0) < 3   # retry once, in case it was temporary

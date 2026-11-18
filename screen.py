@@ -98,16 +98,25 @@ def ocr_at(pg, dpi, timeout):
     return '\n'.join(texts), nx * ny
 
 
+STOP_NEW = LIMIT + 35 * 60   # no page is started after this (job timeout is 355 min); unstarted pages -> not_reached
+LATE = LIMIT + 15 * 60       # after this no 25-min retry or fallback; such pages are left not_reached for the next run
+
+
 def ocr_page(args):
-    """Returns dict(text, dpi, dpi_target, status, tiles). status: ok | retried | degraded | failed."""
-    path, i, dpi_force = args
+    """Returns dict(text, dpi, dpi_target, status, tiles). status: ok | retried | degraded | failed | not_reached.
+    not_reached pages were left for the next run (time limit); they are resumed, not counted as degraded."""
+    path, i, dpi_force, carry = args
+    if carry is not None:          # page already read on an earlier run (resume of a long file)
+        return carry
+    target = dpi_force or TARGET_DPI
+    if time.time() - T0 > STOP_NEW:
+        return dict(text='', dpi=0, dpi_target=target, status='not_reached', tiles=0)
     doc = pymupdf.open(path); pg = doc[i]
     # Always 200 dpi (300 on the low-text pass). Tested 2026-11-10: upscaling scans whose embedded image claims a low
     # resolution still reads more words than rendering at that resolution, so the scan's own dpi is not used as a ceiling.
-    target = dpi_force or TARGET_DPI
     for timeout, status in ((TIMEOUT, 'ok'), (RETRY_TIMEOUT, 'retried')):
-        if status == 'retried' and time.time() - T0 > LIMIT + 15 * 60:
-            break  # too close to the job timeout for a long retry; fall back (recorded as degraded)
+        if status == 'retried' and time.time() - T0 > LATE:
+            return dict(text='', dpi=0, dpi_target=target, status='not_reached', tiles=0)
         try:
             t, tiles = ocr_at(pg, target, timeout)
             return dict(text=t, dpi=target, dpi_target=target, status=status, tiles=tiles)
@@ -117,6 +126,8 @@ def ocr_page(args):
             break
     for dpi in (140, 100):  # last resort, recorded as degraded
         if dpi >= target: continue
+        if time.time() - T0 > LATE:
+            return dict(text='', dpi=0, dpi_target=target, status='not_reached', tiles=0)
         try:
             t, tiles = ocr_at(pg, dpi, RETRY_TIMEOUT)
             return dict(text=t, dpi=dpi, dpi_target=target, status='degraded', tiles=tiles)
@@ -132,12 +143,35 @@ if os.path.exists(RES):
         try: prev.add(json.loads(l)['seq'])
         except Exception: pass
 rows = [r for r in rows if int(r['seq']) not in prev]
+# Long files left unfinished by an earlier run (pages not_reached): redo.py saved the pages already read, so only the
+# missing pages are OCR'd now. {seq: {'rec': old record, 'pages': [text...]}}
+PARTIAL = {}
+PART = os.path.join(out, os.path.basename(RES).replace('results_', 'partial_'))
+if os.path.exists(PART):
+    for l in open(PART):
+        try: p = json.loads(l); PARTIAL[p['rec']['seq']] = p
+        except Exception: pass
+if len(rows) == 1:
+    PAGE_WORKERS = 4   # only one file left in this chunk: give it the whole runner
 print('resuming', MANIFEST, 'chunk', chunk, 'skipping', len(prev), 'done; remaining', len(rows), flush=True)
 
 
-def ocr_doc(path, npages, dpi_force=None):
+def ocr_doc(path, npages, dpi_force=None, carry=None):
+    carry = carry or [None] * npages
     with ThreadPoolExecutor(PAGE_WORKERS) as ex:
-        return list(ex.map(ocr_page, [(path, i, dpi_force) for i in range(npages)]))
+        return list(ex.map(ocr_page, [(path, i, dpi_force, carry[i]) for i in range(npages)]))
+
+
+def carried(seq, npages):
+    """Pages already read on an earlier run, as ocr_page results (None where the page still needs reading)."""
+    p = PARTIAL.get(seq)
+    if not p or p['rec'].get('pages') != npages: return None
+    r = p['rec']; out_ = []
+    for i in range(npages):
+        st = r['page_status'][i]
+        out_.append(dict(text=p['pages'][i], dpi=r['dpi'][i], dpi_target=r['dpi_target'][i], status=st, tiles=0)
+                    if st in ('ok', 'retried', 'degraded') else None)
+    return out_
 
 
 def screen_plat(row):
@@ -156,8 +190,10 @@ def screen_plat(row):
             np = len(pymupdf.open(path))
         except Exception:
             rec.update(status='PDF_UNREADABLE', complete=False); return rec, None
-        pages = ocr_doc(path, np)
-        if sum(len(p['text']) for p in pages) < LOW_TEXT:
+        carry = carried(rec['seq'], np)
+        if carry: rec['resumed_pages'] = sum(c is not None for c in carry)
+        pages = ocr_doc(path, np, carry=carry)
+        if 'not_reached' not in [p['status'] for p in pages] and sum(len(p['text']) for p in pages) < LOW_TEXT:
             hi = ocr_doc(path, np, 300)
             better = sum(len(p['text']) for p in hi) > sum(len(p['text']) for p in pages)
             rec['low_text_pass'] = '300dpi_kept' if better else '300dpi_no_gain'
