@@ -74,13 +74,13 @@
  },
  "extra": {
   "total": 13486,
-  "screened": 13485,
+  "screened": 13486,
   "status": {
-   "OK": 13463,
+   "OK": 13464,
    "DOWNLOAD_FAILED": 7,
    "NO_TEXT": 15
   },
-  "shows_easements": 10352,
+  "shows_easements": 10353,
   "shows_utility_easement": 880,
   "by_type_with_ue": [
    [

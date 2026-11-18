@@ -1431,15 +1431,15 @@
  },
  "extra": {
   "total": 13486,
-  "screened": 13485,
-  "unscreened": 1,
+  "screened": 13486,
+  "unscreened": 0,
   "complete": 13435,
   "incomplete": {
    "pages_degraded_after_retry:1": 40,
    "download_failed": 7,
-   "pages_degraded_after_retry:3": 1,
-   "pages_degraded_after_retry:16": 1,
-   "pages_degraded_after_retry:4": 1
+   "pages_degraded_after_retry:2": 2,
+   "pages_degraded_after_retry:8": 1,
+   "pages_not_reached:32": 1
   },
   "all_complete": false,
   "still_failing": [
